@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\Switch-case test\bin\Debug\Switch-case test.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\Switch-case test\bin\Debug\Switch-case test.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\Switch-case test\bin\Debug\Switch-case test.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\Switch-case test\obj\Debug\Switch-case test.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\Switch-case test\obj\Debug\Switch-case test.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\Switch-case test\obj\Debug\Switch-case test.pdb

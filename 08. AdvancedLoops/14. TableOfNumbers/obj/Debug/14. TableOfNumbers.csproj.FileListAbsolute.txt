@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\14. TableOfNumbers\bin\Debug\_14.TableOfNumbers.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\14. TableOfNumbers\bin\Debug\_14.TableOfNumbers.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\14. TableOfNumbers\bin\Debug\_14.TableOfNumbers.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\14. TableOfNumbers\obj\Debug\14. TableOfNumbers.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\14. TableOfNumbers\obj\Debug\_14.TableOfNumbers.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\14. TableOfNumbers\obj\Debug\_14.TableOfNumbers.pdb

@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\10. Check Prime\obj\Debug\10. Check Prime.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

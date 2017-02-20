@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\06.1. RhombusOfStars ver. 02\bin\Debug\_06._1.RhombusOfStars_ver._02.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\06.1. RhombusOfStars ver. 02\bin\Debug\_06._1.RhombusOfStars_ver._02.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\06.1. RhombusOfStars ver. 02\bin\Debug\_06._1.RhombusOfStars_ver._02.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\06.1. RhombusOfStars ver. 02\obj\Debug\_06._1.RhombusOfStars_ver._02.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\06.1. RhombusOfStars ver. 02\obj\Debug\_06._1.RhombusOfStars_ver._02.pdb

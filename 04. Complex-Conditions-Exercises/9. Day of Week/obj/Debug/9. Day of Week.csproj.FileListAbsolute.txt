@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\9. Day of Week\bin\Debug\_9.Day_of_Week.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\9. Day of Week\bin\Debug\_9.Day_of_Week.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\9. Day of Week\bin\Debug\_9.Day_of_Week.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\9. Day of Week\obj\Debug\_9.Day_of_Week.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\9. Day of Week\obj\Debug\_9.Day_of_Week.pdb

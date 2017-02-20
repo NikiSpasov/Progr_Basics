@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\1000daysAftBird\bin\Debug\1000daysAftBird.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\1000daysAftBird\bin\Debug\1000daysAftBird.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\1000daysAftBird\bin\Debug\1000daysAftBird.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\1000daysAftBird\obj\Debug\1000daysAftBird.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\1000daysAftBird\obj\Debug\1000daysAftBird.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\1000daysAftBird\obj\Debug\1000daysAftBird.pdb

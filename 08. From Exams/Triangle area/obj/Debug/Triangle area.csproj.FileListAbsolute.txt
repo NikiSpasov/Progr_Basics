@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Triangle area\bin\Debug\Triangle area.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Triangle area\bin\Debug\Triangle area.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Triangle area\bin\Debug\Triangle area.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Triangle area\obj\Debug\Triangle area.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Triangle area\obj\Debug\Triangle area.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Triangle area\obj\Debug\Triangle area.pdb

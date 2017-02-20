@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Bricks\bin\Debug\Bricks.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Bricks\bin\Debug\Bricks.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Bricks\bin\Debug\Bricks.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Bricks\obj\Debug\Bricks.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Bricks\obj\Debug\Bricks.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Bricks\obj\Debug\Bricks.pdb

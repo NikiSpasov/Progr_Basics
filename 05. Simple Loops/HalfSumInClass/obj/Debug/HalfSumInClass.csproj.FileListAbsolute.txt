@@ -1,0 +1,2 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\HalfSumInClass\bin\Debug\HalfSumInClass.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\HalfSumInClass\obj\Debug\HalfSumInClass.csprojResolveAssemblyReference.cache

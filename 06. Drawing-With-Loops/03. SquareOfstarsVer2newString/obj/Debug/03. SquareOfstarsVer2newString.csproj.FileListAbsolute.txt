@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. SquareOfstarsVer2newString\bin\Debug\_03.SquareOfstarsVer2newString.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. SquareOfstarsVer2newString\bin\Debug\_03.SquareOfstarsVer2newString.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. SquareOfstarsVer2newString\bin\Debug\_03.SquareOfstarsVer2newString.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. SquareOfstarsVer2newString\obj\Debug\_03.SquareOfstarsVer2newString.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. SquareOfstarsVer2newString\obj\Debug\_03.SquareOfstarsVer2newString.pdb

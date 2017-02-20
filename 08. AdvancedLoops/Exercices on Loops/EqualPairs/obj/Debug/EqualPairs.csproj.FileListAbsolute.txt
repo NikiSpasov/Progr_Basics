@@ -1,0 +1,6 @@
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\EqualPairs\bin\Debug\EqualPairs.exe.config
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\EqualPairs\bin\Debug\EqualPairs.exe
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\EqualPairs\bin\Debug\EqualPairs.pdb
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\EqualPairs\obj\Debug\EqualPairs.exe
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\EqualPairs\obj\Debug\EqualPairs.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\Exercices on Loops\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache

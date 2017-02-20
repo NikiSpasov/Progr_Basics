@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Pefect Diamond\bin\Debug\Pefect Diamond.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Pefect Diamond\obj\Debug\Pefect Diamond.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Pefect Diamond\bin\Debug\Pefect Diamond.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Pefect Diamond\bin\Debug\Pefect Diamond.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Pefect Diamond\obj\Debug\Pefect Diamond.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Pefect Diamond\obj\Debug\Pefect Diamond.pdb

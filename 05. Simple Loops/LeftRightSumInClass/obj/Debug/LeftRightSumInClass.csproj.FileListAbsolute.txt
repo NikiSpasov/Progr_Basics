@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\LeftRightSumInClass\bin\Debug\LeftRightSumInClass.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\LeftRightSumInClass\bin\Debug\LeftRightSumInClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\LeftRightSumInClass\bin\Debug\LeftRightSumInClass.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\LeftRightSumInClass\obj\Debug\LeftRightSumInClass.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\LeftRightSumInClass\obj\Debug\LeftRightSumInClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\LeftRightSumInClass\obj\Debug\LeftRightSumInClass.pdb

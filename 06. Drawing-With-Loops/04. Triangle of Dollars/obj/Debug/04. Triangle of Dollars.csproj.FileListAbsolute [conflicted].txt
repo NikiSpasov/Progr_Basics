@@ -1,0 +1,9 @@
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe.config
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.pdb
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.exe
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.pdb
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\04. Triangle of Dollars\obj\Debug\04. Triangle of Dollars.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.pdb

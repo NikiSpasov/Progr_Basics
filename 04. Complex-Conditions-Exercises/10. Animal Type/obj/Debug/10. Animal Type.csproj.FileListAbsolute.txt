@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\10. Animal Type\bin\Debug\_10.Animal_Type.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\10. Animal Type\bin\Debug\_10.Animal_Type.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\10. Animal Type\bin\Debug\_10.Animal_Type.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\10. Animal Type\obj\Debug\10. Animal Type.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\10. Animal Type\obj\Debug\_10.Animal_Type.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\10. Animal Type\obj\Debug\_10.Animal_Type.pdb

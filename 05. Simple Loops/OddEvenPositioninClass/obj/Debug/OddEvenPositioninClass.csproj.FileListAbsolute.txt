@@ -1,0 +1,2 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\OddEvenPositioninClass\bin\Debug\OddEvenPositioninClass.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\OddEvenPositioninClass\obj\Debug\OddEvenPositioninClass.csprojResolveAssemblyReference.cache

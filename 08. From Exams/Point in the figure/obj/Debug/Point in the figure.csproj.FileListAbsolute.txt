@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Point in the figure\bin\Debug\Point in the figure.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Point in the figure\bin\Debug\Point in the figure.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Point in the figure\bin\Debug\Point in the figure.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Point in the figure\obj\Debug\Point in the figure.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Point in the figure\obj\Debug\Point in the figure.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Point in the figure\obj\Debug\Point in the figure.pdb

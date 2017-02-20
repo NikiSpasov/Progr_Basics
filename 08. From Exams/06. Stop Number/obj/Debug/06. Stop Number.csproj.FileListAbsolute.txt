@@ -1,0 +1,5 @@
+C:\IT\SoftUni\Solutions\08. From Exams\06. Stop Number\bin\Debug\_06.Stop_Number.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\06. Stop Number\bin\Debug\_06.Stop_Number.exe
+C:\IT\SoftUni\Solutions\08. From Exams\06. Stop Number\bin\Debug\_06.Stop_Number.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\06. Stop Number\obj\Debug\_06.Stop_Number.exe
+C:\IT\SoftUni\Solutions\08. From Exams\06. Stop Number\obj\Debug\_06.Stop_Number.pdb

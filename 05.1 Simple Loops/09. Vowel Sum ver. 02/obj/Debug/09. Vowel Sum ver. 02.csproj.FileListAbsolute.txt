@@ -1,0 +1,5 @@
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowel Sum ver. 02\bin\Debug\_09.Vowel_Sum_ver._02.exe.config
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowel Sum ver. 02\bin\Debug\_09.Vowel_Sum_ver._02.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowel Sum ver. 02\bin\Debug\_09.Vowel_Sum_ver._02.pdb
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowel Sum ver. 02\obj\Debug\_09.Vowel_Sum_ver._02.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowel Sum ver. 02\obj\Debug\_09.Vowel_Sum_ver._02.pdb

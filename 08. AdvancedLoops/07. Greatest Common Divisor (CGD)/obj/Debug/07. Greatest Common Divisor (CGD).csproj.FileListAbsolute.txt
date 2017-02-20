@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. Greatest Common Divisor (CGD)\obj\Debug\07. Greatest Common Divisor (CGD).csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.pdb

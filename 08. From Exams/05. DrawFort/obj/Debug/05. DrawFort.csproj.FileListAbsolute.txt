@@ -1,0 +1,3 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\05. DrawFort\bin\Debug\_05.DrawFort.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\05. DrawFort\obj\Debug\05. DrawFort.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\05. DrawFort\obj\Debug\05. DrawFort.csprojResolveAssemblyReference.cache

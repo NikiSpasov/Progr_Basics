@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Smart Lily\bin\Debug\Smart Lily.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Smart Lily\bin\Debug\Smart Lily.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Smart Lily\bin\Debug\Smart Lily.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Smart Lily\obj\Debug\Smart Lily.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Smart Lily\obj\Debug\Smart Lily.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Smart Lily\obj\Debug\Smart Lily.pdb

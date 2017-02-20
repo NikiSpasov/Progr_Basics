@@ -1,0 +1,5 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Тото 6 от 49\bin\Debug\Тото 6 от 49.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Тото 6 от 49\bin\Debug\Тото 6 от 49.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Тото 6 от 49\bin\Debug\Тото 6 от 49.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Тото 6 от 49\obj\Debug\Тото 6 от 49.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Тото 6 от 49\obj\Debug\Тото 6 от 49.pdb

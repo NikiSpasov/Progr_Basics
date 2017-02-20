@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\03. Match tickets\bin\Debug\_03.Match_tickets.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\03. Match tickets\bin\Debug\_03.Match_tickets.exe
+C:\IT\SoftUni\Solutions\08. From Exams\03. Match tickets\bin\Debug\_03.Match_tickets.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\03. Match tickets\obj\Debug\03. Match tickets.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\03. Match tickets\obj\Debug\_03.Match_tickets.exe
+C:\IT\SoftUni\Solutions\08. From Exams\03. Match tickets\obj\Debug\_03.Match_tickets.pdb

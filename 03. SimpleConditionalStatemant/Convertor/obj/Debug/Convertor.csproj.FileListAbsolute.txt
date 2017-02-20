@@ -1,0 +1,9 @@
+C:\Users\VMBAL_OP\Documents\Visual Studio 2015\Projects\SimpleConditionalStatemant\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\VMBAL_OP\Documents\Visual Studio 2015\Projects\SimpleConditionalStatemant\Convertor\bin\Debug\Convertor.exe
+C:\Users\VMBAL_OP\Documents\Visual Studio 2015\Projects\SimpleConditionalStatemant\Convertor\bin\Debug\Convertor.pdb
+C:\Users\VMBAL_OP\Documents\Visual Studio 2015\Projects\SimpleConditionalStatemant\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
+C:\Users\VMBAL_OP\Documents\Visual Studio 2015\Projects\SimpleConditionalStatemant\Convertor\obj\Debug\Convertor.exe
+C:\Users\VMBAL_OP\Documents\Visual Studio 2015\Projects\SimpleConditionalStatemant\Convertor\obj\Debug\Convertor.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\Convertor\bin\Debug\Convertor.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\Convertor\obj\Debug\Convertor.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\Convertor\obj\Debug\Convertor.pdb

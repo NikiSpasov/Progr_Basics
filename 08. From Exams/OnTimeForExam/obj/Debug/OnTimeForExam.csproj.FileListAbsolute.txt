@@ -1,0 +1,11 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\OnTimeForExam\bin\Debug\OnTimeForExam.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\bin\Debug\OnTimeForExam.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\bin\Debug\OnTimeForExam.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\bin\Debug\OnTimeForExam.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\obj\Debug\OnTimeForExam.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\obj\Debug\OnTimeForExam.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\bin\Debug\OnTimeForExam.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\obj\Debug\OnTimeForExam.exe
+C:\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\obj\Debug\OnTimeForExam.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\bin\Debug\OnTimeForExam.exe
+C:\IT\SoftUni\Solutions\08. From Exams\OnTimeForExam\bin\Debug\OnTimeForExam.pdb

@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\04. Even Powers of 2\obj\Debug\04. Even Powers of 2.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.pdb

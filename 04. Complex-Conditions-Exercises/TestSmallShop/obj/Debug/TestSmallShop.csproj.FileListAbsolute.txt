@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\TestSmallShop\bin\Debug\TestSmallShop.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\TestSmallShop\bin\Debug\TestSmallShop.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\TestSmallShop\bin\Debug\TestSmallShop.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\TestSmallShop\obj\Debug\TestSmallShop.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\TestSmallShop\obj\Debug\TestSmallShop.pdb

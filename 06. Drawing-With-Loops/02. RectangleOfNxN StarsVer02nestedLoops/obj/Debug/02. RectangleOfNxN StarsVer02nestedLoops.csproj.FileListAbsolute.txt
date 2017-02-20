@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\02. RectangleOfNxN StarsVer02nestedLoops\bin\Debug\_02.RectangleOfNxN_StarsVer02nestedLoops.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\02. RectangleOfNxN StarsVer02nestedLoops\bin\Debug\_02.RectangleOfNxN_StarsVer02nestedLoops.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\02. RectangleOfNxN StarsVer02nestedLoops\bin\Debug\_02.RectangleOfNxN_StarsVer02nestedLoops.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\02. RectangleOfNxN StarsVer02nestedLoops\obj\Debug\_02.RectangleOfNxN_StarsVer02nestedLoops.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\02. RectangleOfNxN StarsVer02nestedLoops\obj\Debug\_02.RectangleOfNxN_StarsVer02nestedLoops.pdb

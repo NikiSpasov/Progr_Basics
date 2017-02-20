@@ -1,0 +1,9 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\CyrcleAreaAndPerimeter\bin\Debug\CyrcleAreaAndPerimeter.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\CyrcleAreaAndPerimeter\bin\Debug\CyrcleAreaAndPerimeter.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\CyrcleAreaAndPerimeter\bin\Debug\CyrcleAreaAndPerimeter.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\CyrcleAreaAndPerimeter\obj\Debug\CyrcleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\CyrcleAreaAndPerimeter\obj\Debug\CyrcleAreaAndPerimeter.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\CyrcleAreaAndPerimeter\obj\Debug\CyrcleAreaAndPerimeter.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\CyrcleAreaAndPerimeter\bin\Debug\CyrcleAreaAndPerimeter.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\CyrcleAreaAndPerimeter\obj\Debug\CyrcleAreaAndPerimeter.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\CyrcleAreaAndPerimeter\obj\Debug\CyrcleAreaAndPerimeter.pdb

@@ -1,0 +1,8 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. 1to10 inClass\bin\Debug\01. 1to10 inClass.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. 1to10 inClass\bin\Debug\01. 1to10 inClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. 1to10 inClass\bin\Debug\01. 1to10 inClass.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. 1to10 inClass\obj\Debug\01. 1to10 inClass.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. 1to10 inClass\obj\Debug\01. 1to10 inClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. 1to10 inClass\obj\Debug\01. 1to10 inClass.pdb

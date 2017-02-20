@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Digits\bin\Debug\Digits.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Digits\bin\Debug\Digits.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Digits\bin\Debug\Digits.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Digits\obj\Debug\Digits.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Digits\obj\Debug\Digits.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Digits\obj\Debug\Digits.pdb

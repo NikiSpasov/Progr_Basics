@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\13. PyramidOfNumbers 01\bin\Debug\_13.PyramidOfNumbers_01.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\13. PyramidOfNumbers 01\bin\Debug\_13.PyramidOfNumbers_01.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\13. PyramidOfNumbers 01\bin\Debug\_13.PyramidOfNumbers_01.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\13. PyramidOfNumbers 01\obj\Debug\_13.PyramidOfNumbers_01.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\13. PyramidOfNumbers 01\obj\Debug\_13.PyramidOfNumbers_01.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\13. PyramidOfNumbers 01\obj\Debug\13. PyramidOfNumbers 01.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\testDraw\bin\Debug\testDraw.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\testDraw\bin\Debug\testDraw.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\testDraw\bin\Debug\testDraw.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\testDraw\obj\Debug\testDraw.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\testDraw\obj\Debug\testDraw.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\testDraw\obj\Debug\testDraw.pdb

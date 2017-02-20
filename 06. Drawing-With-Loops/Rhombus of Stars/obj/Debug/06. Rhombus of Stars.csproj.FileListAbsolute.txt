@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\Rhombus of Stars\obj\Debug\06. Rhombus of Stars.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.pdb

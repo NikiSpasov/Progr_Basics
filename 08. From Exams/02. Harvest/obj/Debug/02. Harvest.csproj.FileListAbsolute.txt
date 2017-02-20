@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\02. Harvest\bin\Debug\_02.Harvest.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\02. Harvest\bin\Debug\_02.Harvest.exe
+C:\IT\SoftUni\Solutions\08. From Exams\02. Harvest\bin\Debug\_02.Harvest.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\02. Harvest\obj\Debug\02. Harvest.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\02. Harvest\obj\Debug\_02.Harvest.exe
+C:\IT\SoftUni\Solutions\08. From Exams\02. Harvest\obj\Debug\_02.Harvest.pdb

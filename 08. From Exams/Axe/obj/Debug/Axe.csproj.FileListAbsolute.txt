@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Axe\bin\Debug\Axe.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Axe\bin\Debug\Axe.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Axe\bin\Debug\Axe.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Axe\obj\Debug\Axe.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Axe\obj\Debug\Axe.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Axe\obj\Debug\Axe.pdb

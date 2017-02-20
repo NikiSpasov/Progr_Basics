@@ -1,0 +1,5 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Battles\bin\Debug\Battles.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Battles\bin\Debug\Battles.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Battles\bin\Debug\Battles.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Battles\obj\Debug\Battles.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Battles\obj\Debug\Battles.pdb

@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Happy Numbers\bin\Debug\Happy Numbers.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Happy Numbers\bin\Debug\Happy Numbers.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Happy Numbers\bin\Debug\Happy Numbers.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Happy Numbers\obj\Debug\Happy Numbers.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Happy Numbers\obj\Debug\Happy Numbers.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Happy Numbers\obj\Debug\Happy Numbers.pdb

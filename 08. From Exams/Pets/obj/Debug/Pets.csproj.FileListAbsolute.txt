@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Pets\bin\Debug\Pets.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Pets\bin\Debug\Pets.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Pets\bin\Debug\Pets.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Pets\obj\Debug\Pets.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Pets\obj\Debug\Pets.pdb

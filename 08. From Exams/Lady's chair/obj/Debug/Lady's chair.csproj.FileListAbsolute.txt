@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Lady's chair\bin\Debug\Lady's chair.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Lady's chair\bin\Debug\Lady's chair.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Lady's chair\bin\Debug\Lady's chair.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Lady's chair\obj\Debug\Lady's chair.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Lady's chair\obj\Debug\Lady's chair.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Lady's chair\obj\Debug\Lady's chair.pdb

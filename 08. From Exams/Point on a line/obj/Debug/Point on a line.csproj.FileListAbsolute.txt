@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Point on a line\bin\Debug\Point on a line.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Point on a line\bin\Debug\Point on a line.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Point on a line\bin\Debug\Point on a line.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Point on a line\obj\Debug\Point on a line.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Point on a line\obj\Debug\Point on a line.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Point on a line\obj\Debug\Point on a line.csprojResolveAssemblyReference.cache

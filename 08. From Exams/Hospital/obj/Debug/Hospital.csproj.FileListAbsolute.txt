@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Hospital\bin\Debug\Hospital.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Hospital\bin\Debug\Hospital.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Hospital\bin\Debug\Hospital.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Hospital\obj\Debug\Hospital.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Hospital\obj\Debug\Hospital.pdb

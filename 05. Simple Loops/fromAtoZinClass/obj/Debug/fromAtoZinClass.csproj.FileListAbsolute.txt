@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\fromAtoZinClass\bin\Debug\fromAtoZinClass.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\fromAtoZinClass\bin\Debug\fromAtoZinClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\fromAtoZinClass\bin\Debug\fromAtoZinClass.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\fromAtoZinClass\obj\Debug\fromAtoZinClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\fromAtoZinClass\obj\Debug\fromAtoZinClass.pdb

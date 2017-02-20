@@ -1,0 +1,9 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\num0to9inText\bin\Debug\num0to9inText.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\num0to9inText\bin\Debug\num0to9inText.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\num0to9inText\bin\Debug\num0to9inText.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\num0to9inText\obj\Debug\num0to9inText.csprojResolveAssemblyReference.cache
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\num0to9inText\obj\Debug\num0to9inText.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\num0to9inText\obj\Debug\num0to9inText.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\num0to9inText\bin\Debug\num0to9inText.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\num0to9inText\obj\Debug\num0to9inText.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\num0to9inText\obj\Debug\num0to9inText.pdb

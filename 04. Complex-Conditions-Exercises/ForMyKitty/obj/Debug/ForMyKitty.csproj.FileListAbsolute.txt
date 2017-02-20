@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\ForMyKitty\bin\Debug\ForMyKitty.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\ForMyKitty\bin\Debug\ForMyKitty.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\ForMyKitty\bin\Debug\ForMyKitty.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\ForMyKitty\obj\Debug\ForMyKitty.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\ForMyKitty\obj\Debug\ForMyKitty.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\ForMyKitty\obj\Debug\ForMyKitty.pdb

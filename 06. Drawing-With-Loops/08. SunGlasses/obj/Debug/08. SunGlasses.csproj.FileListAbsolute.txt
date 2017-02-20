@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. SunGlasses\bin\Debug\_08.SunGlasses.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. SunGlasses\bin\Debug\_08.SunGlasses.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. SunGlasses\bin\Debug\_08.SunGlasses.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. SunGlasses\obj\Debug\08. SunGlasses.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. SunGlasses\obj\Debug\_08.SunGlasses.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. SunGlasses\obj\Debug\_08.SunGlasses.pdb

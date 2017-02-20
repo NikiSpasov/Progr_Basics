@@ -1,0 +1,9 @@
+p:\pcloud sync\it\softuni\solutions\Simple Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe.config
+p:\pcloud sync\it\softuni\solutions\Simple Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.pdb
+p:\pcloud sync\it\softuni\solutions\Simple Loops\04. SumNumbers\obj\Debug\04. SumNumbers.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\Simple Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.pdb

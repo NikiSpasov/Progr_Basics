@@ -1,0 +1,15 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\02. Transport Price\bin\Debug\_02.Transport_Price.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\02. Transport Price\bin\Debug\_02.Transport_Price.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\02. Transport Price\bin\Debug\_02.Transport_Price.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\02. Transport Price\obj\Debug\02. Transport Price.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\02. Transport Price\obj\Debug\_02.Transport_Price.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\02. Transport Price\obj\Debug\_02.Transport_Price.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\bin\Debug\_02.Transport_Price.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\obj\Debug\_02.Transport_Price.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\obj\Debug\_02.Transport_Price.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\bin\Debug\_02.Transport_Price.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\bin\Debug\_02.Transport_Price.exe
+C:\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\bin\Debug\_02.Transport_Price.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\obj\Debug\02. Transport Price.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\obj\Debug\_02.Transport_Price.exe
+C:\IT\SoftUni\Solutions\08. From Exams\02. Transport Price\obj\Debug\_02.Transport_Price.pdb

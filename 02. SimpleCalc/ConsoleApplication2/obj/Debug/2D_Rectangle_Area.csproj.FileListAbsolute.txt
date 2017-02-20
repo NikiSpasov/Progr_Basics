@@ -1,0 +1,2 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config

@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\13. Volleyball\bin\Debug\_13.Volleyball.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\13. Volleyball\bin\Debug\_13.Volleyball.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\13. Volleyball\bin\Debug\_13.Volleyball.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\13. Volleyball\obj\Debug\13. Volleyball.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\13. Volleyball\obj\Debug\_13.Volleyball.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\13. Volleyball\obj\Debug\_13.Volleyball.pdb

@@ -1,0 +1,9 @@
+p:\pcloud sync\it\softuni\solutions\Simple Loops\07. LeftRightSum\bin\Debug\_07.LeftRightSum.exe.config
+p:\pcloud sync\it\softuni\solutions\Simple Loops\07. LeftRightSum\bin\Debug\_07.LeftRightSum.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\07. LeftRightSum\bin\Debug\_07.LeftRightSum.pdb
+p:\pcloud sync\it\softuni\solutions\Simple Loops\07. LeftRightSum\obj\Debug\07. LeftRightSum.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\Simple Loops\07. LeftRightSum\obj\Debug\_07.LeftRightSum.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\07. LeftRightSum\obj\Debug\_07.LeftRightSum.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\07. LeftRightSum\bin\Debug\_07.LeftRightSum.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\07. LeftRightSum\obj\Debug\_07.LeftRightSum.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\07. LeftRightSum\obj\Debug\_07.LeftRightSum.pdb

@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\PointInFigure\obj\Debug\14. PointInFigure.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\PointInFigure\bin\Debug\PointInFigure.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\PointInFigure\bin\Debug\PointInFigure.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\PointInFigure\bin\Debug\PointInFigure.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\PointInFigure\obj\Debug\PointInFigure.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\PointInFigure\obj\Debug\PointInFigure.pdb

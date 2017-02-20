@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbersHelpTest\bin\Debug\numbersHelpTest.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbersHelpTest\bin\Debug\numbersHelpTest.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbersHelpTest\bin\Debug\numbersHelpTest.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbersHelpTest\obj\Debug\numbersHelpTest.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbersHelpTest\obj\Debug\numbersHelpTest.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbersHelpTest\obj\Debug\numbersHelpTest.pdb

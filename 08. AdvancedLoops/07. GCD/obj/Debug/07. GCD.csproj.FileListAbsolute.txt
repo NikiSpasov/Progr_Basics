@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. GCD\bin\Debug\_07.GCD.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. GCD\bin\Debug\_07.GCD.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. GCD\bin\Debug\_07.GCD.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. GCD\obj\Debug\07. GCD.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. GCD\obj\Debug\_07.GCD.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\07. GCD\obj\Debug\_07.GCD.pdb

@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\01.  Exam SoftUni\bin\Debug\_01.Exam_SoftUni.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\01.  Exam SoftUni\bin\Debug\_01.Exam_SoftUni.exe
+C:\IT\SoftUni\Solutions\08. From Exams\01.  Exam SoftUni\bin\Debug\_01.Exam_SoftUni.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\01.  Exam SoftUni\obj\Debug\01.  Fishland.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\01.  Exam SoftUni\obj\Debug\_01.Exam_SoftUni.exe
+C:\IT\SoftUni\Solutions\08. From Exams\01.  Exam SoftUni\obj\Debug\_01.Exam_SoftUni.pdb

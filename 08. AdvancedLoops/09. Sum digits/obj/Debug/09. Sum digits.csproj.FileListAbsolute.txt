@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\09. Sum digits\bin\Debug\_09.Sum_digits.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\09. Sum digits\bin\Debug\_09.Sum_digits.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\09. Sum digits\bin\Debug\_09.Sum_digits.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\09. Sum digits\obj\Debug\_09.Sum_digits.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\09. Sum digits\obj\Debug\_09.Sum_digits.pdb

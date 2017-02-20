@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\otherTest\bin\Debug\otherTest.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\otherTest\bin\Debug\otherTest.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\otherTest\bin\Debug\otherTest.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\otherTest\obj\Debug\otherTest.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\otherTest\obj\Debug\otherTest.pdb

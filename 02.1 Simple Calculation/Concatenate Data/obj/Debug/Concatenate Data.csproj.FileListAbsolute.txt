@@ -1,0 +1,6 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Concatenate Data\bin\Debug\Concatenate Data.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Concatenate Data\bin\Debug\Concatenate Data.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Concatenate Data\bin\Debug\Concatenate Data.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Concatenate Data\obj\Debug\Concatenate Data.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Concatenate Data\obj\Debug\Concatenate Data.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Concatenate Data\obj\Debug\Concatenate Data.csprojResolveAssemblyReference.cache

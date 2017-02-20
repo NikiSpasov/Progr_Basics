@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\Factorial\bin\Debug\Factorial.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\Factorial\bin\Debug\Factorial.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\Factorial\bin\Debug\Factorial.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\Factorial\obj\Debug\Factorial.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\Factorial\obj\Debug\Factorial.pdb

@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\MinNumInClass\bin\Debug\MinNumInClass.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\MinNumInClass\bin\Debug\MinNumInClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\MinNumInClass\bin\Debug\MinNumInClass.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\MinNumInClass\obj\Debug\MinNumInClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\MinNumInClass\obj\Debug\MinNumInClass.pdb

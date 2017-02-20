@@ -1,0 +1,10 @@
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.exe.config
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.exe
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.pdb
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\03. Square of Stars\obj\Debug\_03.Square_of_Stars.exe
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\03. Square of Stars\obj\Debug\_03.Square_of_Stars.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. Square of Stars\obj\Debug\_03.Square_of_Stars.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. Square of Stars\obj\Debug\_03.Square_of_Stars.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.pdb

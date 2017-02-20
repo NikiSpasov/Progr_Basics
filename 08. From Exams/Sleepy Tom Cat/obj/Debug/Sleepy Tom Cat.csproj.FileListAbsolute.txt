@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Sleepy Tom Cat\bin\Debug\Sleepy Tom Cat.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Sleepy Tom Cat\bin\Debug\Sleepy Tom Cat.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Sleepy Tom Cat\bin\Debug\Sleepy Tom Cat.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Sleepy Tom Cat\obj\Debug\Sleepy Tom Cat.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Sleepy Tom Cat\obj\Debug\Sleepy Tom Cat.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Sleepy Tom Cat\obj\Debug\Sleepy Tom Cat.pdb

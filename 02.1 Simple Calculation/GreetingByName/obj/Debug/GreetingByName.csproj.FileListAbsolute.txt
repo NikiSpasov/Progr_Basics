@@ -1,0 +1,8 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\GreetingByName\bin\Debug\GreetingByName.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\GreetingByName\bin\Debug\GreetingByName.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\GreetingByName\bin\Debug\GreetingByName.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\GreetingByName\obj\Debug\GreetingByName.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\GreetingByName\obj\Debug\GreetingByName.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\02.1 Simple Calculation\GreetingByName\bin\Debug\GreetingByName.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\02.1 Simple Calculation\GreetingByName\obj\Debug\GreetingByName.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\02.1 Simple Calculation\GreetingByName\obj\Debug\GreetingByName.pdb

@@ -1,0 +1,15 @@
+p:\pcloud sync\it\softuni\solutions\From Exams\01. Training Lab\bin\Debug\_01.Training_Lab.exe.config
+p:\pcloud sync\it\softuni\solutions\From Exams\01. Training Lab\bin\Debug\_01.Training_Lab.exe
+p:\pcloud sync\it\softuni\solutions\From Exams\01. Training Lab\bin\Debug\_01.Training_Lab.pdb
+p:\pcloud sync\it\softuni\solutions\From Exams\01. Training Lab\obj\Debug\01. Training Lab.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\From Exams\01. Training Lab\obj\Debug\_01.Training_Lab.exe
+p:\pcloud sync\it\softuni\solutions\From Exams\01. Training Lab\obj\Debug\_01.Training_Lab.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\bin\Debug\_01.Training_Lab.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\obj\Debug\_01.Training_Lab.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\obj\Debug\_01.Training_Lab.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\bin\Debug\_01.Training_Lab.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\obj\Debug\_01.Training_Lab.exe
+C:\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\obj\Debug\_01.Training_Lab.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\bin\Debug\_01.Training_Lab.exe
+C:\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\bin\Debug\_01.Training_Lab.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\01. Training Lab\obj\Debug\01. Training Lab.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\11. Stop\bin\Debug\_11.Stop.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\11. Stop\bin\Debug\_11.Stop.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\11. Stop\bin\Debug\_11.Stop.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\11. Stop\obj\Debug\11. Stop.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\11. Stop\obj\Debug\_11.Stop.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\11. Stop\obj\Debug\_11.Stop.pdb

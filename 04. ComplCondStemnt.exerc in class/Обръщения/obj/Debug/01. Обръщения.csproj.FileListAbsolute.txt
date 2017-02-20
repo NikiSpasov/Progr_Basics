@@ -1,0 +1,9 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\Обръщения\bin\Debug\Обръщения.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\Обръщения\bin\Debug\Обръщения.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\Обръщения\bin\Debug\Обръщения.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\Обръщения\obj\Debug\01. Обръщения.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\Обръщения\obj\Debug\Обръщения.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\Обръщения\obj\Debug\Обръщения.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. ComplCondStemnt.exerc in class\Обръщения\bin\Debug\Обръщения.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. ComplCondStemnt.exerc in class\Обръщения\obj\Debug\Обръщения.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. ComplCondStemnt.exerc in class\Обръщения\obj\Debug\Обръщения.pdb

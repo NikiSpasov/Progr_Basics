@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\increasing 4 numbers\bin\Debug\increasing 4 numbers.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\increasing 4 numbers\bin\Debug\increasing 4 numbers.exe
+C:\IT\SoftUni\Solutions\08. From Exams\increasing 4 numbers\bin\Debug\increasing 4 numbers.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\increasing 4 numbers\obj\Debug\increasing 4 numbers.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\increasing 4 numbers\obj\Debug\increasing 4 numbers.exe
+C:\IT\SoftUni\Solutions\08. From Exams\increasing 4 numbers\obj\Debug\increasing 4 numbers.pdb

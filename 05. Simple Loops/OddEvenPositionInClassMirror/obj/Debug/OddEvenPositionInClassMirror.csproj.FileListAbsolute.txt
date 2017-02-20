@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\OddEvenPositionInClassMirror\bin\Debug\OddEvenPositionInClassMirror.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\OddEvenPositionInClassMirror\bin\Debug\OddEvenPositionInClassMirror.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\OddEvenPositionInClassMirror\bin\Debug\OddEvenPositionInClassMirror.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\OddEvenPositionInClassMirror\obj\Debug\OddEvenPositionInClassMirror.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\OddEvenPositionInClassMirror\obj\Debug\OddEvenPositionInClassMirror.pdb

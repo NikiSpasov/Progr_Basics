@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House01\bin\Debug\_09.House01.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House01\bin\Debug\_09.House01.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House01\bin\Debug\_09.House01.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House01\obj\Debug\09. House01.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House01\obj\Debug\_09.House01.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House01\obj\Debug\_09.House01.pdb

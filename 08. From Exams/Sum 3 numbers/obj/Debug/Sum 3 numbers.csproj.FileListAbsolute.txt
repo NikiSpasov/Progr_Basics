@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Sum 3 numbers\bin\Debug\Sum 3 numbers.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Sum 3 numbers\bin\Debug\Sum 3 numbers.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Sum 3 numbers\bin\Debug\Sum 3 numbers.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Sum 3 numbers\obj\Debug\Sum 3 numbers.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Sum 3 numbers\obj\Debug\Sum 3 numbers.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Sum 3 numbers\obj\Debug\Sum 3 numbers.csprojResolveAssemblyReference.cache

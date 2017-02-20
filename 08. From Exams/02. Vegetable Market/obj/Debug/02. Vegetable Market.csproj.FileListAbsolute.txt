@@ -1,0 +1,12 @@
+p:\pcloud sync\it\softuni\solutions\From Exams\02. Vegetable Market\bin\Debug\_02.Vegetable_Market.exe.config
+p:\pcloud sync\it\softuni\solutions\From Exams\02. Vegetable Market\bin\Debug\_02.Vegetable_Market.exe
+p:\pcloud sync\it\softuni\solutions\From Exams\02. Vegetable Market\bin\Debug\_02.Vegetable_Market.pdb
+p:\pcloud sync\it\softuni\solutions\From Exams\02. Vegetable Market\obj\Debug\02. Vegetable Market.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\From Exams\02. Vegetable Market\obj\Debug\_02.Vegetable_Market.exe
+p:\pcloud sync\it\softuni\solutions\From Exams\02. Vegetable Market\obj\Debug\_02.Vegetable_Market.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\02. Vegetable Market\bin\Debug\_02.Vegetable_Market.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\02. Vegetable Market\bin\Debug\_02.Vegetable_Market.exe
+C:\IT\SoftUni\Solutions\08. From Exams\02. Vegetable Market\bin\Debug\_02.Vegetable_Market.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\02. Vegetable Market\obj\Debug\02. Vegetable Market.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\02. Vegetable Market\obj\Debug\_02.Vegetable_Market.exe
+C:\IT\SoftUni\Solutions\08. From Exams\02. Vegetable Market\obj\Debug\_02.Vegetable_Market.pdb

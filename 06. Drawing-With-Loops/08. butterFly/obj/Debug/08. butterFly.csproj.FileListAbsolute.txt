@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. butterFly\bin\Debug\_08.butterFly.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. butterFly\bin\Debug\_08.butterFly.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. butterFly\bin\Debug\_08.butterFly.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. butterFly\obj\Debug\08. butterFly.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. butterFly\obj\Debug\_08.butterFly.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\08. butterFly\obj\Debug\_08.butterFly.pdb

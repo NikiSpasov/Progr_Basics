@@ -1,0 +1,5 @@
+p:\pcloud sync\it\softuni\solutions\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe.config
+p:\pcloud sync\it\softuni\solutions\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.pdb
+p:\pcloud sync\it\softuni\solutions\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.pdb

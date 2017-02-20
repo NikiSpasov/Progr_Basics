@@ -1,0 +1,5 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\part of bonus points\bin\Debug\part of bonus points.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\part of bonus points\bin\Debug\part of bonus points.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\part of bonus points\bin\Debug\part of bonus points.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\part of bonus points\obj\Debug\part of bonus points.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\part of bonus points\obj\Debug\part of bonus points.pdb

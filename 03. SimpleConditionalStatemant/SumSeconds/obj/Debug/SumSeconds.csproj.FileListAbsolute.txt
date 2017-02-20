@@ -1,0 +1,12 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\SumSeconds\bin\Debug\SumSeconds.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\SumSeconds\bin\Debug\SumSeconds.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\SumSeconds\bin\Debug\SumSeconds.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\SumSeconds\obj\Debug\SumSeconds.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\SumSeconds\obj\Debug\SumSeconds.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\SumSeconds\bin\Debug\SumSeconds.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\SumSeconds\obj\Debug\SumSeconds.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\SumSeconds\obj\Debug\SumSeconds.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\SumSeconds\bin\Debug\SumSeconds.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\SumSeconds\bin\Debug\SumSeconds.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache

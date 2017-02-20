@@ -1,0 +1,6 @@
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\HistoMirror\bin\Debug\HistoMirror.exe.config
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\HistoMirror\bin\Debug\HistoMirror.exe
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\HistoMirror\bin\Debug\HistoMirror.pdb
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\HistoMirror\obj\Debug\HistoMirror.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\HistoMirror\obj\Debug\HistoMirror.exe
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\HistoMirror\obj\Debug\HistoMirror.pdb

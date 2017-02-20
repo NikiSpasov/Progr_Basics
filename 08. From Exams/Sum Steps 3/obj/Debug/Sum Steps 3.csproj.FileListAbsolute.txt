@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Sum Steps 3\bin\Debug\Sum Steps 3.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Sum Steps 3\bin\Debug\Sum Steps 3.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Sum Steps 3\bin\Debug\Sum Steps 3.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Sum Steps 3\obj\Debug\Sum Steps 3.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Sum Steps 3\obj\Debug\Sum Steps 3.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Sum Steps 3\obj\Debug\Sum Steps 3.pdb

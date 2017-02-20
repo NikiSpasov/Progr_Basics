@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Операции между числа\bin\Debug\Операции между числа.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Операции между числа\obj\Debug\Операции между числа.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Операции между числа\bin\Debug\Операции между числа.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Операции между числа\bin\Debug\Операции между числа.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Операции между числа\obj\Debug\Операции между числа.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Операции между числа\obj\Debug\Операции между числа.pdb

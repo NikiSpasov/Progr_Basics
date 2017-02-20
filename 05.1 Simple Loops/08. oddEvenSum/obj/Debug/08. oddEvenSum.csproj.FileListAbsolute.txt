@@ -1,0 +1,5 @@
+p:\pcloud sync\it\softuni\solutions\Simple Loops\08. oddEvenSum\bin\Debug\_08.oddEvenSum.exe.config
+p:\pcloud sync\it\softuni\solutions\Simple Loops\08. oddEvenSum\bin\Debug\_08.oddEvenSum.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\08. oddEvenSum\bin\Debug\_08.oddEvenSum.pdb
+p:\pcloud sync\it\softuni\solutions\Simple Loops\08. oddEvenSum\obj\Debug\_08.oddEvenSum.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\08. oddEvenSum\obj\Debug\_08.oddEvenSum.pdb

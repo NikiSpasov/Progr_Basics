@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Lady\bin\Debug\Lady.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Lady\bin\Debug\Lady.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Lady\bin\Debug\Lady.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Lady\obj\Debug\Lady.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Lady\obj\Debug\Lady.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Lady\obj\Debug\Lady.csprojResolveAssemblyReference.cache

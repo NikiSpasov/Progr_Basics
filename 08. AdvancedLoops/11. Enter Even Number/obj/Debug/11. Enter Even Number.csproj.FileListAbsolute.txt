@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\11. Enter Even Number\obj\Debug\11. Enter Even Number.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.pdb

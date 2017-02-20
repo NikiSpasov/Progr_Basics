@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\06. Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\06. Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\06. Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\06. Number in Range [1...100]\obj\Debug\_06.Number_in_Range__1._._._100_.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\06. Number in Range [1...100]\obj\Debug\_06.Number_in_Range__1._._._100_.pdb

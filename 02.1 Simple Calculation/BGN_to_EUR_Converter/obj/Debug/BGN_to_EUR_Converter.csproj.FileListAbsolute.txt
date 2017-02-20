@@ -1,0 +1,9 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\bin\Debug\BGN_to_EUR_Converter.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\bin\Debug\BGN_to_EUR_Converter.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\bin\Debug\BGN_to_EUR_Converter.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\obj\Debug\BGN_to_EUR_Converter.csprojResolveAssemblyReference.cache
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\obj\Debug\BGN_to_EUR_Converter.BGNtoEUR.resources
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\obj\Debug\BGN_to_EUR_Converter.Properties.Resources.resources
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\obj\Debug\BGN_to_EUR_Converter.csproj.GenerateResource.Cache
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\obj\Debug\BGN_to_EUR_Converter.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\BGN_to_EUR_Converter\obj\Debug\BGN_to_EUR_Converter.pdb

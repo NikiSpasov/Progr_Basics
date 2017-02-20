@@ -1,0 +1,1 @@
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\HistoGram\bin\Debug\HistoGram.exe.config

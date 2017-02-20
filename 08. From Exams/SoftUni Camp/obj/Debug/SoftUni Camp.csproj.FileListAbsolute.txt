@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\SoftUni Camp\bin\Debug\SoftUni Camp.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\SoftUni Camp\bin\Debug\SoftUni Camp.exe
+C:\IT\SoftUni\Solutions\08. From Exams\SoftUni Camp\bin\Debug\SoftUni Camp.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\SoftUni Camp\obj\Debug\SoftUni Camp.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\SoftUni Camp\obj\Debug\SoftUni Camp.exe
+C:\IT\SoftUni\Solutions\08. From Exams\SoftUni Camp\obj\Debug\SoftUni Camp.pdb

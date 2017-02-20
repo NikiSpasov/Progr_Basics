@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\08. Switch case\bin\Debug\_08.Switch_case.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\08. Switch case\bin\Debug\_08.Switch_case.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\08. Switch case\bin\Debug\_08.Switch_case.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\08. Switch case\obj\Debug\_08.Switch_case.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\08. Switch case\obj\Debug\_08.Switch_case.pdb

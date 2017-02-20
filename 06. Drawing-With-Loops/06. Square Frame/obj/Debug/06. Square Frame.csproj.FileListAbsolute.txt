@@ -1,0 +1,1 @@
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\06. Square Frame\bin\Debug\_06.Square_Frame.exe.config

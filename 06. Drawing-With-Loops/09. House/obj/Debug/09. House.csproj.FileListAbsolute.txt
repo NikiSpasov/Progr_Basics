@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House\bin\Debug\_09.House.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House\bin\Debug\_09.House.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House\bin\Debug\_09.House.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House\obj\Debug\_09.House.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\09. House\obj\Debug\_09.House.pdb

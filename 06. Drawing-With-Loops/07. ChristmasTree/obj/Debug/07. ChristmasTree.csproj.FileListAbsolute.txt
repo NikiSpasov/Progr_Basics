@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\07. ChristmasTree\bin\Debug\_07.ChristmasTree.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\07. ChristmasTree\bin\Debug\_07.ChristmasTree.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\07. ChristmasTree\bin\Debug\_07.ChristmasTree.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\07. ChristmasTree\obj\Debug\07. ChristmasTree.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\07. ChristmasTree\obj\Debug\_07.ChristmasTree.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\07. ChristmasTree\obj\Debug\_07.ChristmasTree.pdb

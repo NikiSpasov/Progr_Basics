@@ -1,0 +1,9 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\BonusScore\bin\Debug\BonusScore.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\BonusScore\bin\Debug\BonusScore.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\BonusScore\bin\Debug\BonusScore.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\BonusScore\obj\Debug\BonusScore.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\BonusScore\obj\Debug\BonusScore.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\BonusScore\bin\Debug\BonusScore.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\BonusScore\obj\Debug\BonusScore.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\BonusScore\obj\Debug\BonusScore.pdb

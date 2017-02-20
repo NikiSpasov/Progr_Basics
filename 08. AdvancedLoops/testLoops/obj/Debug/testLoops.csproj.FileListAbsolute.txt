@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\testLoops\bin\Debug\testLoops.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\testLoops\bin\Debug\testLoops.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\testLoops\bin\Debug\testLoops.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\testLoops\obj\Debug\testLoops.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\testLoops\obj\Debug\testLoops.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\testLoops\obj\Debug\testLoops.pdb

@@ -1,0 +1,12 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\04. Тръби в басеин\bin\Debug\_04.Тръби_в_басеин.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\04. Тръби в басеин\bin\Debug\_04.Тръби_в_басеин.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\04. Тръби в басеин\bin\Debug\_04.Тръби_в_басеин.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\04. Тръби в басеин\obj\Debug\04. Тръби в басеин.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\04. Тръби в басеин\obj\Debug\_04.Тръби_в_басеин.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\From Exams\04. Тръби в басеин\obj\Debug\_04.Тръби_в_басеин.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\04. Тръби в басеин\bin\Debug\_04.Тръби_в_басеин.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\04. Тръби в басеин\obj\Debug\_04.Тръби_в_басеин.exe
+C:\IT\SoftUni\Solutions\08. From Exams\04. Тръби в басеин\obj\Debug\_04.Тръби_в_басеин.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\04. Тръби в басеин\bin\Debug\_04.Тръби_в_басеин.exe
+C:\IT\SoftUni\Solutions\08. From Exams\04. Тръби в басеин\bin\Debug\_04.Тръби_в_басеин.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\04. Тръби в басеин\obj\Debug\04. Тръби в басеин.csprojResolveAssemblyReference.cache

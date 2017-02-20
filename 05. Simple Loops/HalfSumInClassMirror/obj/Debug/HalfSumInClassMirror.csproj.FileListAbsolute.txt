@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\HalfSumInClassMirror\bin\Debug\HalfSumInClassMirror.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\HalfSumInClassMirror\bin\Debug\HalfSumInClassMirror.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\HalfSumInClassMirror\bin\Debug\HalfSumInClassMirror.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\HalfSumInClassMirror\obj\Debug\HalfSumInClassMirror.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\HalfSumInClassMirror\obj\Debug\HalfSumInClassMirror.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\HalfSumInClassMirror\obj\Debug\HalfSumInClassMirror.csprojResolveAssemblyReference.cache

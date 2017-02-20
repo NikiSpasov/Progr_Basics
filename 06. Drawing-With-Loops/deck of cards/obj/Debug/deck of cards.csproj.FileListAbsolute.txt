@@ -1,0 +1,6 @@
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\deck of cards\bin\Debug\deck of cards.exe.config
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\deck of cards\bin\Debug\deck of cards.exe
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\deck of cards\bin\Debug\deck of cards.pdb
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\deck of cards\obj\Debug\deck of cards.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\deck of cards\obj\Debug\deck of cards.exe
+p:\pcloud sync\it\softuni\solutions\6. Drawing-With-Loops\deck of cards\obj\Debug\deck of cards.pdb

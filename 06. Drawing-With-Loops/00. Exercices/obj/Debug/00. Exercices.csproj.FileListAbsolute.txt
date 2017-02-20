@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\00. Exercices\bin\Debug\_00.Exercices.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\00. Exercices\bin\Debug\_00.Exercices.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\00. Exercices\bin\Debug\_00.Exercices.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\00. Exercices\obj\Debug\00. Exercices.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\00. Exercices\obj\Debug\_00.Exercices.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\00. Exercices\obj\Debug\_00.Exercices.pdb

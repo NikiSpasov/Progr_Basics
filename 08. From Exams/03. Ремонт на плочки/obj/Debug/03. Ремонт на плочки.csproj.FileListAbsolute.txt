@@ -1,0 +1,12 @@
+p:\pcloud sync\it\softuni\solutions\From Exams\03. Ремонт на плочки\bin\Debug\_03.Ремонт_на_плочки.exe.config
+p:\pcloud sync\it\softuni\solutions\From Exams\03. Ремонт на плочки\bin\Debug\_03.Ремонт_на_плочки.exe
+p:\pcloud sync\it\softuni\solutions\From Exams\03. Ремонт на плочки\bin\Debug\_03.Ремонт_на_плочки.pdb
+p:\pcloud sync\it\softuni\solutions\From Exams\03. Ремонт на плочки\obj\Debug\03. Ремонт на плочки.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\From Exams\03. Ремонт на плочки\obj\Debug\_03.Ремонт_на_плочки.exe
+p:\pcloud sync\it\softuni\solutions\From Exams\03. Ремонт на плочки\obj\Debug\_03.Ремонт_на_плочки.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\03. Ремонт на плочки\bin\Debug\_03.Ремонт_на_плочки.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\03. Ремонт на плочки\obj\Debug\_03.Ремонт_на_плочки.exe
+C:\IT\SoftUni\Solutions\08. From Exams\03. Ремонт на плочки\obj\Debug\_03.Ремонт_на_плочки.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\03. Ремонт на плочки\bin\Debug\_03.Ремонт_на_плочки.exe
+C:\IT\SoftUni\Solutions\08. From Exams\03. Ремонт на плочки\bin\Debug\_03.Ремонт_на_плочки.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\03. Ремонт на плочки\obj\Debug\03. Ремонт на плочки.csprojResolveAssemblyReference.cache

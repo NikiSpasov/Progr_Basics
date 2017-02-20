@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\GreatestNumMirror\bin\Debug\GreatestNumMirror.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\GreatestNumMirror\bin\Debug\GreatestNumMirror.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\GreatestNumMirror\bin\Debug\GreatestNumMirror.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\GreatestNumMirror\obj\Debug\GreatestNumMirror.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\GreatestNumMirror\obj\Debug\GreatestNumMirror.pdb

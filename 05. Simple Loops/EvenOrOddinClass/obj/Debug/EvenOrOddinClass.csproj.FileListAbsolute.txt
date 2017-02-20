@@ -1,0 +1,2 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\EvenOrOddinClass\bin\Debug\EvenOrOddinClass.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\EvenOrOddinClass\obj\Debug\EvenOrOddinClass.csprojResolveAssemblyReference.cache

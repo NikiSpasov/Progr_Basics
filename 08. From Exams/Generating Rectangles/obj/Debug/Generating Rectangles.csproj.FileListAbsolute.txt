@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Generating Rectangles\bin\Debug\Generating Rectangles.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Generating Rectangles\bin\Debug\Generating Rectangles.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Generating Rectangles\bin\Debug\Generating Rectangles.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Generating Rectangles\obj\Debug\Generating Rectangles.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Generating Rectangles\obj\Debug\Generating Rectangles.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Generating Rectangles\obj\Debug\Generating Rectangles.pdb

@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05. SquareFrameMyGame\bin\Debug\_05.SquareFrameMyGame.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05. SquareFrameMyGame\bin\Debug\_05.SquareFrameMyGame.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05. SquareFrameMyGame\bin\Debug\_05.SquareFrameMyGame.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05. SquareFrameMyGame\obj\Debug\05. SquareFrameMyGame.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05. SquareFrameMyGame\obj\Debug\_05.SquareFrameMyGame.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05. SquareFrameMyGame\obj\Debug\_05.SquareFrameMyGame.pdb

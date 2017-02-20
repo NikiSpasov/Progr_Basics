@@ -1,0 +1,9 @@
+p:\pcloud sync\it\softuni\solutions\Simple Loops\01. Nembers 1 to 100\bin\Debug\_01.Nembers_1_to_100.exe.config
+p:\pcloud sync\it\softuni\solutions\Simple Loops\01. Nembers 1 to 100\bin\Debug\_01.Nembers_1_to_100.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\01. Nembers 1 to 100\bin\Debug\_01.Nembers_1_to_100.pdb
+p:\pcloud sync\it\softuni\solutions\Simple Loops\01. Nembers 1 to 100\obj\Debug\01. Nembers 1 to 100.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\Simple Loops\01. Nembers 1 to 100\obj\Debug\_01.Nembers_1_to_100.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\01. Nembers 1 to 100\obj\Debug\_01.Nembers_1_to_100.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. Nembers 1 to 100\bin\Debug\_01.Nembers_1_to_100.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. Nembers 1 to 100\obj\Debug\_01.Nembers_1_to_100.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\01. Nembers 1 to 100\obj\Debug\_01.Nembers_1_to_100.pdb

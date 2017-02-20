@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\02. NumbersNto1\bin\Debug\_02.NumbersNto1.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\02. NumbersNto1\bin\Debug\_02.NumbersNto1.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\02. NumbersNto1\bin\Debug\_02.NumbersNto1.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\02. NumbersNto1\obj\Debug\_02.NumbersNto1.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\02. NumbersNto1\obj\Debug\_02.NumbersNto1.pdb

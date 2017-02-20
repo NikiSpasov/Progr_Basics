@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. TriangleOfDollarsMyWay\bin\Debug\_04.TriangleOfDollarsMyWay.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. TriangleOfDollarsMyWay\bin\Debug\_04.TriangleOfDollarsMyWay.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. TriangleOfDollarsMyWay\bin\Debug\_04.TriangleOfDollarsMyWay.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. TriangleOfDollarsMyWay\obj\Debug\04. TriangleOfDollarsMyWay.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. TriangleOfDollarsMyWay\obj\Debug\_04.TriangleOfDollarsMyWay.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\04. TriangleOfDollarsMyWay\obj\Debug\_04.TriangleOfDollarsMyWay.pdb

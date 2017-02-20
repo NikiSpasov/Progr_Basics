@@ -1,0 +1,6 @@
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\Деление без остатък\bin\Debug\Деление без остатък.exe.config
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\Деление без остатък\bin\Debug\Деление без остатък.exe
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\Деление без остатък\bin\Debug\Деление без остатък.pdb
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\Деление без остатък\obj\Debug\Деление без остатък.exe
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\Деление без остатък\obj\Debug\Деление без остатък.pdb
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\Деление без остатък\obj\Debug\Деление без остатък.csprojResolveAssemblyReference.cache

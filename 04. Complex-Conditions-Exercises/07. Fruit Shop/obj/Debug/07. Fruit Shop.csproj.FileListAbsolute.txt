@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\07. Fruit Shop\obj\Debug\07. Fruit Shop.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.pdb

@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Rectangle with stars\bin\Debug\Rectangle with stars.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Rectangle with stars\bin\Debug\Rectangle with stars.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Rectangle with stars\bin\Debug\Rectangle with stars.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Rectangle with stars\obj\Debug\Rectangle with stars.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Rectangle with stars\obj\Debug\Rectangle with stars.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Rectangle with stars\obj\Debug\Rectangle with stars.pdb

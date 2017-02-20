@@ -1,0 +1,6 @@
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe.config
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.pdb
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowels Sum\obj\Debug\09. Vowels Sum.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.pdb

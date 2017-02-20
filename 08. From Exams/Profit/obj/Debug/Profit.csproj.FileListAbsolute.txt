@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Profit\bin\Debug\Profit.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Profit\bin\Debug\Profit.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Profit\bin\Debug\Profit.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Profit\obj\Debug\Profit.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Profit\obj\Debug\Profit.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Profit\obj\Debug\Profit.pdb

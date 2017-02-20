@@ -1,0 +1,5 @@
+p:\pcloud sync\it\softuni\solutions\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.exe.config
+p:\pcloud sync\it\softuni\solutions\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.pdb
+p:\pcloud sync\it\softuni\solutions\Simple Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.exe
+p:\pcloud sync\it\softuni\solutions\Simple Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.pdb

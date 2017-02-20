@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\ChristmasTree\bin\Debug\ChristmasTree.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\ChristmasTree\bin\Debug\ChristmasTree.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\ChristmasTree\obj\Debug\ChristmasTree.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\ChristmasTree\obj\Debug\ChristmasTree.pdb

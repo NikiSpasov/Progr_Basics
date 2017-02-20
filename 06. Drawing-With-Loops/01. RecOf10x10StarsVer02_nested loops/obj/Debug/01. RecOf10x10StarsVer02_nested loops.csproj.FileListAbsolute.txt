@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\01. RecOf10x10StarsVer02_nested loops\bin\Debug\_01.RecOf10x10StarsVer02_nested_loops.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\01. RecOf10x10StarsVer02_nested loops\bin\Debug\_01.RecOf10x10StarsVer02_nested_loops.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\01. RecOf10x10StarsVer02_nested loops\bin\Debug\_01.RecOf10x10StarsVer02_nested_loops.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\01. RecOf10x10StarsVer02_nested loops\obj\Debug\_01.RecOf10x10StarsVer02_nested_loops.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\01. RecOf10x10StarsVer02_nested loops\obj\Debug\_01.RecOf10x10StarsVer02_nested_loops.pdb

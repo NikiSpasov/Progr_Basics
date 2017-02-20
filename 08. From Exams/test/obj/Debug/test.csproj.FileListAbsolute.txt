@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\test\bin\Debug\test.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\test\bin\Debug\test.exe
+C:\IT\SoftUni\Solutions\08. From Exams\test\bin\Debug\test.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\test\obj\Debug\test.exe
+C:\IT\SoftUni\Solutions\08. From Exams\test\obj\Debug\test.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\test\obj\Debug\test.csprojResolveAssemblyReference.cache

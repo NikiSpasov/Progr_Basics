@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Increasing Elements\bin\Debug\Increasing Elements.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Increasing Elements\bin\Debug\Increasing Elements.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Increasing Elements\bin\Debug\Increasing Elements.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Increasing Elements\obj\Debug\Increasing Elements.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Increasing Elements\obj\Debug\Increasing Elements.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Increasing Elements\obj\Debug\Increasing Elements.pdb

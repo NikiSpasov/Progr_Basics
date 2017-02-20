@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\DateTime exerci\bin\Debug\DateTime exerci.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\DateTime exerci\bin\Debug\DateTime exerci.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\DateTime exerci\bin\Debug\DateTime exerci.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\DateTime exerci\obj\Debug\DateTime exerci.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\DateTime exerci\obj\Debug\DateTime exerci.pdb

@@ -1,0 +1,2 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\greaterNumber\bin\Debug\greaterNumber.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\greaterNumber\bin\Debug\greaterNumber.exe.config

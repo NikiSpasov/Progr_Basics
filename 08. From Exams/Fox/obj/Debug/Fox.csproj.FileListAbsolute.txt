@@ -1,0 +1,5 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Fox\bin\Debug\Fox.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Fox\bin\Debug\Fox.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Fox\bin\Debug\Fox.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Fox\obj\Debug\Fox.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Fox\obj\Debug\Fox.pdb

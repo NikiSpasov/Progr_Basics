@@ -1,0 +1,2 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\Solution2\Store\bin\Debug\Store.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. ComplCondStemnt.exerc in class\Store\bin\Debug\Store.exe.config

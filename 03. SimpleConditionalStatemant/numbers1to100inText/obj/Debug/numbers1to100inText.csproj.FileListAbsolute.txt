@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbers1to100inText\bin\Debug\numbers1to100inText.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbers1to100inText\bin\Debug\numbers1to100inText.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbers1to100inText\bin\Debug\numbers1to100inText.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbers1to100inText\obj\Debug\numbers1to100inText.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbers1to100inText\obj\Debug\numbers1to100inText.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\numbers1to100inText\obj\Debug\numbers1to100inText.pdb

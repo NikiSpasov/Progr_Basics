@@ -1,0 +1,9 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Trapezoid Area\bin\Debug\Trapezoid Area.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Trapezoid Area\bin\Debug\Trapezoid Area.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Trapezoid Area\bin\Debug\Trapezoid Area.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Trapezoid Area\obj\Debug\Trapezoid Area.csprojResolveAssemblyReference.cache
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Trapezoid Area\obj\Debug\Trapezoid Area.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\Solution1\Trapezoid Area\obj\Debug\Trapezoid Area.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\Trapezoid Area\bin\Debug\Trapezoid Area.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\Trapezoid Area\obj\Debug\Trapezoid Area.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\02. SimpleCalc\Trapezoid Area\obj\Debug\Trapezoid Area.pdb

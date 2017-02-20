@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\01. Personal Titles\bin\Debug\_01.Personal_Titles.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\01. Personal Titles\obj\Debug\01. Personal Titles.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\01. Personal Titles\obj\Debug\_01.Personal_Titles.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\01. Personal Titles\obj\Debug\_01.Personal_Titles.pdb

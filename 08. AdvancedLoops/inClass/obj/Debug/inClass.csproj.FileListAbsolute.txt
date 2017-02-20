@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\inClass\bin\Debug\inClass.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\inClass\bin\Debug\inClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\inClass\bin\Debug\inClass.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\inClass\obj\Debug\inClass.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\inClass\obj\Debug\inClass.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. AdvancedLoops\inClass\obj\Debug\inClass.pdb

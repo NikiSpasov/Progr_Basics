@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\O1. Money\bin\Debug\O1.Money.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\O1. Money\bin\Debug\O1.Money.exe
+C:\IT\SoftUni\Solutions\08. From Exams\O1. Money\bin\Debug\O1.Money.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\O1. Money\obj\Debug\O1. Money.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\O1. Money\obj\Debug\O1.Money.exe
+C:\IT\SoftUni\Solutions\08. From Exams\O1. Money\obj\Debug\O1.Money.pdb

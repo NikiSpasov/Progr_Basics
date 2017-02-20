@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\10. Diamond\bin\Debug\_10.Diamond.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\10. Diamond\bin\Debug\_10.Diamond.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\10. Diamond\bin\Debug\_10.Diamond.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\10. Diamond\obj\Debug\_10.Diamond.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\10. Diamond\obj\Debug\_10.Diamond.pdb

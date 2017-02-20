@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\Left and Right Sum\bin\Debug\Left and Right Sum.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\Left and Right Sum\obj\Debug\Left and Right Sum.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\Left and Right Sum\obj\Debug\Left and Right Sum.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\Left and Right Sum\obj\Debug\Left and Right Sum.pdb

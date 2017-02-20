@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05.2 Kiro\bin\Debug\05.2 Kiro.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05.2 Kiro\bin\Debug\05.2 Kiro.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05.2 Kiro\bin\Debug\05.2 Kiro.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05.2 Kiro\obj\Debug\05.2 Kiro.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\06. Drawing-With-Loops\05.2 Kiro\obj\Debug\05.2 Kiro.pdb

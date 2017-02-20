@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\softuniada bonus\bin\Debug\softuniada bonus.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\softuniada bonus\bin\Debug\softuniada bonus.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\softuniada bonus\bin\Debug\softuniada bonus.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\softuniada bonus\obj\Debug\softuniada bonus.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\softuniada bonus\obj\Debug\softuniada bonus.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\softuniada bonus\obj\Debug\softuniada bonus.pdb

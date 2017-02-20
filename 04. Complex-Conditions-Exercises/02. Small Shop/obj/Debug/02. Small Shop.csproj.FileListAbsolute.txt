@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\02. Small Shop\bin\Debug\_02.Small_Shop.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\02. Small Shop\bin\Debug\_02.Small_Shop.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\02. Small Shop\bin\Debug\_02.Small_Shop.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\02. Small Shop\obj\Debug\_02.Small_Shop.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\02. Small Shop\obj\Debug\_02.Small_Shop.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\04. Complex-Conditions-Exercises\02. Small Shop\obj\Debug\02. Small Shop.csprojResolveAssemblyReference.cache

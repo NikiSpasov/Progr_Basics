@@ -1,0 +1,5 @@
+C:\IT\SoftUni\Solutions\08. From Exams\04. BackToThePast\bin\Debug\_04.BackToThePast.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\04. BackToThePast\bin\Debug\_04.BackToThePast.exe
+C:\IT\SoftUni\Solutions\08. From Exams\04. BackToThePast\bin\Debug\_04.BackToThePast.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\04. BackToThePast\obj\Debug\_04.BackToThePast.exe
+C:\IT\SoftUni\Solutions\08. From Exams\04. BackToThePast\obj\Debug\_04.BackToThePast.pdb

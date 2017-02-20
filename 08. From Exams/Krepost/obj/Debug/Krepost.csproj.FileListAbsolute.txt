@@ -1,0 +1,12 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\Krepost\bin\Debug\Krepost.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\Krepost\bin\Debug\Krepost.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\Krepost\bin\Debug\Krepost.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\Krepost\obj\Debug\Krepost.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\Krepost\obj\Debug\Krepost.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\08. From Exams\Krepost\obj\Debug\Krepost.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Krepost\bin\Debug\Krepost.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Krepost\bin\Debug\Krepost.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Krepost\bin\Debug\Krepost.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Krepost\obj\Debug\Krepost.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Krepost\obj\Debug\Krepost.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Krepost\obj\Debug\Krepost.pdb

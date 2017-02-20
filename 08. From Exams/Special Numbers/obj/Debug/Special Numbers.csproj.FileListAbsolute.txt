@@ -1,0 +1,5 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Special Numbers\bin\Debug\Special Numbers.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Special Numbers\bin\Debug\Special Numbers.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Special Numbers\bin\Debug\Special Numbers.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Special Numbers\obj\Debug\Special Numbers.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Special Numbers\obj\Debug\Special Numbers.pdb

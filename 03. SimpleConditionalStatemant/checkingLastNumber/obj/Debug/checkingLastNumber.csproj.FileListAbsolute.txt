@@ -1,0 +1,8 @@
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\checkingLastNumber\bin\Debug\checkingLastNumber.exe.config
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\checkingLastNumber\bin\Debug\checkingLastNumber.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\checkingLastNumber\bin\Debug\checkingLastNumber.pdb
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\checkingLastNumber\obj\Debug\checkingLastNumber.exe
+c:\users\vmbal_op\documents\visual studio 2015\Projects\SimpleConditionalStatemant\checkingLastNumber\obj\Debug\checkingLastNumber.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\checkingLastNumber\bin\Debug\checkingLastNumber.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\checkingLastNumber\obj\Debug\checkingLastNumber.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\03. SimpleConditionalStatemant\checkingLastNumber\obj\Debug\checkingLastNumber.pdb

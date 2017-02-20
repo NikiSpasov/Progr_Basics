@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Hotel Room\bin\Debug\Hotel Room.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Hotel Room\bin\Debug\Hotel Room.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Hotel Room\bin\Debug\Hotel Room.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Hotel Room\obj\Debug\Hotel Room.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Hotel Room\obj\Debug\Hotel Room.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Hotel Room\obj\Debug\Hotel Room.pdb

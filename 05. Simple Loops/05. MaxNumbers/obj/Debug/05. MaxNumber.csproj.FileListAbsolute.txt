@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\05. MaxNumbers\bin\Debug\_05.MaxNumbers.exe.config
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\05. MaxNumbers\bin\Debug\_05.MaxNumbers.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\05. MaxNumbers\bin\Debug\_05.MaxNumbers.pdb
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\05. MaxNumbers\obj\Debug\05. MaxNumber.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\05. MaxNumbers\obj\Debug\_05.MaxNumbers.exe
+P:\pCloud Sync\IT\SoftUni\Solutions\05. Simple Loops\05. MaxNumbers\obj\Debug\_05.MaxNumbers.pdb

@@ -1,0 +1,6 @@
+C:\IT\SoftUni\Solutions\08. From Exams\Date after 5 days\bin\Debug\Date after 5 days.exe.config
+C:\IT\SoftUni\Solutions\08. From Exams\Date after 5 days\bin\Debug\Date after 5 days.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Date after 5 days\bin\Debug\Date after 5 days.pdb
+C:\IT\SoftUni\Solutions\08. From Exams\Date after 5 days\obj\Debug\Date after 5 days.csprojResolveAssemblyReference.cache
+C:\IT\SoftUni\Solutions\08. From Exams\Date after 5 days\obj\Debug\Date after 5 days.exe
+C:\IT\SoftUni\Solutions\08. From Exams\Date after 5 days\obj\Debug\Date after 5 days.pdb

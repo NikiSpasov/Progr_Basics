@@ -1,0 +1,6 @@
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\OddEvenPos\bin\Debug\OddEvenPos.exe.config
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\OddEvenPos\bin\Debug\OddEvenPos.exe
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\OddEvenPos\bin\Debug\OddEvenPos.pdb
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\OddEvenPos\obj\Debug\OddEvenPos.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\OddEvenPos\obj\Debug\OddEvenPos.exe
+p:\pcloud sync\it\softuni\solutions\Exercices on Loops\OddEvenPos\obj\Debug\OddEvenPos.pdb
