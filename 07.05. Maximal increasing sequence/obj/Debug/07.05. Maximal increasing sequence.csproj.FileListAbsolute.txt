@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.05. Maximal increasing sequence\bin\Debug\_07._05.Maximal_increasing_sequence.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.05. Maximal increasing sequence\bin\Debug\_07._05.Maximal_increasing_sequence.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.05. Maximal increasing sequence\bin\Debug\_07._05.Maximal_increasing_sequence.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.05. Maximal increasing sequence\obj\Debug\07.05. Maximal increasing sequence.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.05. Maximal increasing sequence\obj\Debug\_07._05.Maximal_increasing_sequence.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.05. Maximal increasing sequence\obj\Debug\_07._05.Maximal_increasing_sequence.pdb

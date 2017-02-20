@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.07. Point in a Circle\bin\Debug\_03._07.Point_in_a_Circle.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.07. Point in a Circle\bin\Debug\_03._07.Point_in_a_Circle.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.07. Point in a Circle\bin\Debug\_03._07.Point_in_a_Circle.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.07. Point in a Circle\obj\Debug\_03._07.Point_in_a_Circle.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.07. Point in a Circle\obj\Debug\_03._07.Point_in_a_Circle.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.07. Point in a Circle\obj\Debug\03.07. Point in a Circle.csprojResolveAssemblyReference.cache

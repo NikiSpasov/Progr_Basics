@@ -1,0 +1,3 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\02. Float or Double\bin\Debug\_02.Float_or_Double.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\02. Float or Double\obj\Debug\_02.Float_or_Double.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\02. Float or Double\obj\Debug\_02.Float_or_Double.pdb

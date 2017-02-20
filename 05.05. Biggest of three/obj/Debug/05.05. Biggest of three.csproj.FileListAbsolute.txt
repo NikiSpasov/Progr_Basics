@@ -1,0 +1,5 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.05. Biggest of three\bin\Debug\_05._05.Biggest_of_three.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.05. Biggest of three\bin\Debug\_05._05.Biggest_of_three.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.05. Biggest of three\bin\Debug\_05._05.Biggest_of_three.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.05. Biggest of three\obj\Debug\_05._05.Biggest_of_three.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.05. Biggest of three\obj\Debug\_05._05.Biggest_of_three.pdb

@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.11. 3th Bit\bin\Debug\03.11. 3th Bit.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.11. 3th Bit\bin\Debug\03.11. 3th Bit.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.11. 3th Bit\bin\Debug\03.11. 3th Bit.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.11. 3th Bit\obj\Debug\03.11. 3th Bit.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.11. 3th Bit\obj\Debug\03.11. 3th Bit.pdb

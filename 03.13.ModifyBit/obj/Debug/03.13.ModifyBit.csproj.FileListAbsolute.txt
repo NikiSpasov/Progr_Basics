@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.13.ModifyBit\bin\Debug\03.13.ModifyBit.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.13.ModifyBit\bin\Debug\03.13.ModifyBit.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.13.ModifyBit\bin\Debug\03.13.ModifyBit.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.13.ModifyBit\obj\Debug\03.13.ModifyBit.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.13.ModifyBit\obj\Debug\03.13.ModifyBit.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.13.ModifyBit\obj\Debug\03.13.ModifyBit.csprojResolveAssemblyReference.cache

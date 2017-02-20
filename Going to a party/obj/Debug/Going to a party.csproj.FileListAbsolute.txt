@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Going to a party\bin\Debug\Going to a party.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Going to a party\bin\Debug\Going to a party.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Going to a party\bin\Debug\Going to a party.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Going to a party\obj\Debug\Going to a party.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Going to a party\obj\Debug\Going to a party.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Going to a party\obj\Debug\Going to a party.csprojResolveAssemblyReference.cache

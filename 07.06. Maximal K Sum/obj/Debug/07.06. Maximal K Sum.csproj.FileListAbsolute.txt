@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.06. Maximal K Sum\bin\Debug\_07._06.Maximal_K_Sum.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.06. Maximal K Sum\bin\Debug\_07._06.Maximal_K_Sum.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.06. Maximal K Sum\bin\Debug\_07._06.Maximal_K_Sum.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.06. Maximal K Sum\obj\Debug\07.06. Maximal K Sum.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.06. Maximal K Sum\obj\Debug\_07._06.Maximal_K_Sum.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.06. Maximal K Sum\obj\Debug\_07._06.Maximal_K_Sum.pdb

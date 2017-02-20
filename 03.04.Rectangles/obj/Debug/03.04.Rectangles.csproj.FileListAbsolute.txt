@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.04.Rectangles\bin\Debug\03.04.Rectangles.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.04.Rectangles\bin\Debug\03.04.Rectangles.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.04.Rectangles\bin\Debug\03.04.Rectangles.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.04.Rectangles\obj\Debug\03.04.Rectangles.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.04.Rectangles\obj\Debug\03.04.Rectangles.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.04.Rectangles\obj\Debug\03.04.Rectangles.csprojResolveAssemblyReference.cache

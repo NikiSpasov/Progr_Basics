@@ -1,0 +1,9 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\bin\Debug\03.00.TestInClass.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\bin\Debug\03.00.TestInClass.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\bin\Debug\03.00.TestInClass.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\obj\Debug\03.00.TestInClass.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\obj\Debug\03.00.TestInClass.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\obj\Debug\03.00.TestInClass.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\bin\Debug\03.00.TestInClass.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\obj\Debug\03.00.TestInClass.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\03.00.TestInClass\obj\Debug\03.00.TestInClass.pdb

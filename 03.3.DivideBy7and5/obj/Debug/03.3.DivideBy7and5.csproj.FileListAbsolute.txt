@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.3.DivideBy7and5\bin\Debug\03.3.DivideBy7and5.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.3.DivideBy7and5\bin\Debug\03.3.DivideBy7and5.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.3.DivideBy7and5\bin\Debug\03.3.DivideBy7and5.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.3.DivideBy7and5\obj\Debug\03.3.DivideBy7and5.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.3.DivideBy7and5\obj\Debug\03.3.DivideBy7and5.pdb

@@ -1,0 +1,9 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\bin\Debug\_03._001.ExerciseAtHome.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\bin\Debug\_03._001.ExerciseAtHome.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\bin\Debug\_03._001.ExerciseAtHome.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\obj\Debug\03.001. ExerciseAtHome.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\obj\Debug\_03._001.ExerciseAtHome.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\obj\Debug\_03._001.ExerciseAtHome.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\bin\Debug\_03._001.ExerciseAtHome.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\obj\Debug\_03._001.ExerciseAtHome.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\03.001. ExerciseAtHome\obj\Debug\_03._001.ExerciseAtHome.pdb

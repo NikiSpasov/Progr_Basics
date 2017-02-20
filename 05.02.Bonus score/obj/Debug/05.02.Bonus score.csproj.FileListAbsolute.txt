@@ -1,0 +1,5 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.02.Bonus score\bin\Debug\05.02.Bonus score.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.02.Bonus score\bin\Debug\05.02.Bonus score.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.02.Bonus score\bin\Debug\05.02.Bonus score.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.02.Bonus score\obj\Debug\05.02.Bonus score.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.02.Bonus score\obj\Debug\05.02.Bonus score.pdb

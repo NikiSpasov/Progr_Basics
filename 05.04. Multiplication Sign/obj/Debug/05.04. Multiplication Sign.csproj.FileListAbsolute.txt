@@ -1,0 +1,5 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.04. Multiplication Sign\bin\Debug\_05._04.Multiplication_Sign.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.04. Multiplication Sign\bin\Debug\_05._04.Multiplication_Sign.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.04. Multiplication Sign\bin\Debug\_05._04.Multiplication_Sign.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.04. Multiplication Sign\obj\Debug\_05._04.Multiplication_Sign.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.04. Multiplication Sign\obj\Debug\_05._04.Multiplication_Sign.pdb

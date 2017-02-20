@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.00 Arrays\bin\Debug\07.00 Arrays.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.00 Arrays\bin\Debug\07.00 Arrays.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.00 Arrays\bin\Debug\07.00 Arrays.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.00 Arrays\obj\Debug\07.00 Arrays.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.00 Arrays\obj\Debug\07.00 Arrays.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.00 Arrays\obj\Debug\07.00 Arrays.pdb

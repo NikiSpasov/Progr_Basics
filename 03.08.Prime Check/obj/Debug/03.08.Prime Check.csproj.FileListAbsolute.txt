@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.08.Prime Check\bin\Debug\03.08.Prime Check.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.08.Prime Check\bin\Debug\03.08.Prime Check.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.08.Prime Check\bin\Debug\03.08.Prime Check.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.08.Prime Check\obj\Debug\03.08.Prime Check.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.08.Prime Check\obj\Debug\03.08.Prime Check.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.08.Prime Check\obj\Debug\03.08.Prime Check.pdb

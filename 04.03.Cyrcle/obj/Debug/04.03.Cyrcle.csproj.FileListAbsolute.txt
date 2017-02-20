@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.03.Cyrcle\bin\Debug\04.03.Cyrcle.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.03.Cyrcle\bin\Debug\04.03.Cyrcle.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.03.Cyrcle\bin\Debug\04.03.Cyrcle.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.03.Cyrcle\obj\Debug\04.03.Cyrcle.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.03.Cyrcle\obj\Debug\04.03.Cyrcle.pdb

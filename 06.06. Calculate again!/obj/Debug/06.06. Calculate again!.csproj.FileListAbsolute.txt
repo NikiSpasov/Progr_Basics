@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.06. Calculate again!\bin\Debug\_06._06.Calculate_again_.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.06. Calculate again!\bin\Debug\_06._06.Calculate_again_.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.06. Calculate again!\bin\Debug\_06._06.Calculate_again_.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.06. Calculate again!\obj\Debug\06.06. Calculate again!.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.06. Calculate again!\obj\Debug\_06._06.Calculate_again_.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.06. Calculate again!\obj\Debug\_06._06.Calculate_again_.pdb

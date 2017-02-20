@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.01. Allocate array\bin\Debug\_07._01.Allocate_array.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.01. Allocate array\bin\Debug\_07._01.Allocate_array.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.01. Allocate array\bin\Debug\_07._01.Allocate_array.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.01. Allocate array\obj\Debug\07.01. Allocate array.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.01. Allocate array\obj\Debug\_07._01.Allocate_array.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.01. Allocate array\obj\Debug\_07._01.Allocate_array.pdb

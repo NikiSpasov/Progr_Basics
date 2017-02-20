@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.05.Numbers Comparer\bin\Debug\04.05.Numbers Comparer.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.05.Numbers Comparer\bin\Debug\04.05.Numbers Comparer.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.05.Numbers Comparer\bin\Debug\04.05.Numbers Comparer.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.05.Numbers Comparer\obj\Debug\04.05.Numbers Comparer.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.05.Numbers Comparer\obj\Debug\04.05.Numbers Comparer.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.05.Numbers Comparer\obj\Debug\04.05.Numbers Comparer.pdb

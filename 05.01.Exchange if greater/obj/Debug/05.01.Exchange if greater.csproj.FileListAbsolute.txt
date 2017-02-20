@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.01.Exchange if greater\bin\Debug\05.01.Exchange if greater.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.01.Exchange if greater\bin\Debug\05.01.Exchange if greater.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.01.Exchange if greater\bin\Debug\05.01.Exchange if greater.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.01.Exchange if greater\obj\Debug\05.01.Exchange if greater.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.01.Exchange if greater\obj\Debug\05.01.Exchange if greater.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.01.Exchange if greater\obj\Debug\05.01.Exchange if greater.pdb

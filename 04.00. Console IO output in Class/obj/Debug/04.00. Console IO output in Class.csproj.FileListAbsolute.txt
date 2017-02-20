@@ -1,0 +1,9 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\bin\Debug\_04._00.Console_IO_output_in_Class.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\obj\Debug\04.00. Console IO output in Class.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\bin\Debug\_04._00.Console_IO_output_in_Class.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\bin\Debug\_04._00.Console_IO_output_in_Class.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\obj\Debug\_04._00.Console_IO_output_in_Class.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\obj\Debug\_04._00.Console_IO_output_in_Class.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\bin\Debug\_04._00.Console_IO_output_in_Class.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\obj\Debug\_04._00.Console_IO_output_in_Class.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.00. Console IO output in Class\obj\Debug\_04._00.Console_IO_output_in_Class.pdb

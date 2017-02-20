@@ -1,0 +1,5 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.02.Compare Array\bin\Debug\07.02.Compare Array.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.02.Compare Array\bin\Debug\07.02.Compare Array.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.02.Compare Array\bin\Debug\07.02.Compare Array.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.02.Compare Array\obj\Debug\07.02.Compare Array.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.02.Compare Array\obj\Debug\07.02.Compare Array.pdb

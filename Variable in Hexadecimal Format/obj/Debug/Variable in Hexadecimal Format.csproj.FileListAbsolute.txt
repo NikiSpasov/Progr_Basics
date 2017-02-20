@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb

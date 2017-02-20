@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.15. Prime numbers\bin\Debug\_07._15.Prime_numbers.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.15. Prime numbers\obj\Debug\07.15. Prime numbers.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.15. Prime numbers\bin\Debug\_07._15.Prime_numbers.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.15. Prime numbers\bin\Debug\_07._15.Prime_numbers.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.15. Prime numbers\obj\Debug\_07._15.Prime_numbers.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.15. Prime numbers\obj\Debug\_07._15.Prime_numbers.pdb

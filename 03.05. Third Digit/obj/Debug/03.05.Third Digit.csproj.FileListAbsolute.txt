@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.05. Third Digit\bin\Debug\_03._05.Third_Digit.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.05. Third Digit\bin\Debug\_03._05.Third_Digit.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.05. Third Digit\bin\Debug\_03._05.Third_Digit.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.05. Third Digit\obj\Debug\_03._05.Third_Digit.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.05. Third Digit\obj\Debug\_03._05.Third_Digit.pdb

@@ -1,0 +1,6 @@
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\TestTest\bin\Debug\TestTest.exe.config
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\TestTest\bin\Debug\TestTest.exe
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\TestTest\bin\Debug\TestTest.pdb
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\TestTest\obj\Debug\TestTest.exe
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\TestTest\obj\Debug\TestTest.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\TestTest\obj\Debug\TestTest.csprojResolveAssemblyReference.cache

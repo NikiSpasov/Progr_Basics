@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.04. CardDeck\bin\Debug\_06._04.CardDeck.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.04. CardDeck\bin\Debug\_06._04.CardDeck.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.04. CardDeck\bin\Debug\_06._04.CardDeck.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.04. CardDeck\obj\Debug\06.04. CardDeck.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.04. CardDeck\obj\Debug\_06._04.CardDeck.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.04. CardDeck\obj\Debug\_06._04.CardDeck.pdb

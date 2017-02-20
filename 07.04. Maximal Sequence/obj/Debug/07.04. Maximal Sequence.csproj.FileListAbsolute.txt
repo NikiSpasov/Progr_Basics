@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.04. Maximal Sequence\bin\Debug\_07._04.Maximal_Sequence.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.04. Maximal Sequence\bin\Debug\_07._04.Maximal_Sequence.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.04. Maximal Sequence\bin\Debug\_07._04.Maximal_Sequence.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.04. Maximal Sequence\obj\Debug\07.04. Maximal Sequence.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.04. Maximal Sequence\obj\Debug\_07._04.Maximal_Sequence.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.04. Maximal Sequence\obj\Debug\_07._04.Maximal_Sequence.pdb

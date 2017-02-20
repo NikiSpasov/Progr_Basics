@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\14. Print the ASCII Table\obj\Debug\14. Print the ASCII Table.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb

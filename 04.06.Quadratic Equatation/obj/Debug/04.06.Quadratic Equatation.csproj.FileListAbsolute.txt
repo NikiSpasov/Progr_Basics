@@ -1,0 +1,12 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\bin\Debug\04.06.Quadratic Equatation.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\bin\Debug\04.06.Quadratic Equatation.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\bin\Debug\04.06.Quadratic Equatation.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\obj\Debug\04.06.Quadratic Equatation.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\obj\Debug\04.06.Quadratic Equatation.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\obj\Debug\04.06.Quadratic Equatation.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\bin\Debug\04.06.Quadratic Equatation.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\obj\Debug\04.06.Quadratic Equatation.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\obj\Debug\04.06.Quadratic Equatation.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\bin\Debug\04.06.Quadratic Equatation.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\bin\Debug\04.06.Quadratic Equatation.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.06.Quadratic Equatation\obj\Debug\04.06.Quadratic Equatation.csprojResolveAssemblyReference.cache

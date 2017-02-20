@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.09.Trapezoids\bin\Debug\03.09.Trapezoids.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.09.Trapezoids\bin\Debug\03.09.Trapezoids.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.09.Trapezoids\bin\Debug\03.09.Trapezoids.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.09.Trapezoids\obj\Debug\03.09.Trapezoids.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.09.Trapezoids\obj\Debug\03.09.Trapezoids.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.09.Trapezoids\obj\Debug\03.09.Trapezoids.pdb

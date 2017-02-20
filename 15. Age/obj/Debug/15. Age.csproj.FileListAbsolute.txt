@@ -1,0 +1,6 @@
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\15. Age\bin\Debug\_15.Age.exe.config
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\15. Age\bin\Debug\_15.Age.exe
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\15. Age\bin\Debug\_15.Age.pdb
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\15. Age\obj\Debug\15. Age.csprojResolveAssemblyReference.cache
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\15. Age\obj\Debug\_15.Age.exe
+p:\pcloud sync\it\Telerik\solutions\01. TelerikInToProgramming\15. Age\obj\Debug\_15.Age.pdb

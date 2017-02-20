@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.001. Exercices\bin\Debug\_07._001.Exercices.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.001. Exercices\bin\Debug\_07._001.Exercices.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.001. Exercices\bin\Debug\_07._001.Exercices.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.001. Exercices\obj\Debug\07.001. Exercices.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.001. Exercices\obj\Debug\_07._001.Exercices.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.001. Exercices\obj\Debug\_07._001.Exercices.pdb

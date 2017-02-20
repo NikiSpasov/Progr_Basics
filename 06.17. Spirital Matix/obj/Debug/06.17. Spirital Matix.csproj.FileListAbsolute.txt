@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.17. Spirital Matix\bin\Debug\_06._17.Spirital_Matix.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.17. Spirital Matix\bin\Debug\_06._17.Spirital_Matix.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.17. Spirital Matix\bin\Debug\_06._17.Spirital_Matix.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.17. Spirital Matix\obj\Debug\06.17. Spirital Matix.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.17. Spirital Matix\obj\Debug\_06._17.Spirital_Matix.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.17. Spirital Matix\obj\Debug\_06._17.Spirital_Matix.pdb

@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Magic numbers\bin\Debug\Magic numbers.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Magic numbers\bin\Debug\Magic numbers.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Magic numbers\bin\Debug\Magic numbers.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Magic numbers\obj\Debug\Magic numbers.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Magic numbers\obj\Debug\Magic numbers.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Magic numbers\obj\Debug\Magic numbers.pdb

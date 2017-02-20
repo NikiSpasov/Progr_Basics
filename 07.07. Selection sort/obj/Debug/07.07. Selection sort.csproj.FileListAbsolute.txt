@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.07. Selection sort\bin\Debug\_07._07.Selection_sort.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.07. Selection sort\bin\Debug\_07._07.Selection_sort.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.07. Selection sort\bin\Debug\_07._07.Selection_sort.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.07. Selection sort\obj\Debug\07.07. Selection sort.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.07. Selection sort\obj\Debug\_07._07.Selection_sort.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.07. Selection sort\obj\Debug\_07._07.Selection_sort.pdb

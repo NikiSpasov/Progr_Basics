@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.01. Numbers from 1 to N\bin\Debug\_06._01.Numbers_from_1_to_N.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.01. Numbers from 1 to N\bin\Debug\_06._01.Numbers_from_1_to_N.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.01. Numbers from 1 to N\bin\Debug\_06._01.Numbers_from_1_to_N.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.01. Numbers from 1 to N\obj\Debug\06.01. Numbers from 1 to N.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.01. Numbers from 1 to N\obj\Debug\_06._01.Numbers_from_1_to_N.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.01. Numbers from 1 to N\obj\Debug\_06._01.Numbers_from_1_to_N.pdb

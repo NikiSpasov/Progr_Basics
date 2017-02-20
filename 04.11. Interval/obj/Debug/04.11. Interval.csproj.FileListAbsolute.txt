@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.11. Interval\bin\Debug\_04._11.Interval.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.11. Interval\bin\Debug\_04._11.Interval.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.11. Interval\bin\Debug\_04._11.Interval.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.11. Interval\obj\Debug\04.11. Interval.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.11. Interval\obj\Debug\_04._11.Interval.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\04.11. Interval\obj\Debug\_04._11.Interval.pdb

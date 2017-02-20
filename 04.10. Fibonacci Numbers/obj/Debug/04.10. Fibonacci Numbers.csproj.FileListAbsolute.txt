@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.10. Fibonacci Numbers\bin\Debug\_04._10.Fibonacci_Numbers.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.10. Fibonacci Numbers\bin\Debug\_04._10.Fibonacci_Numbers.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.10. Fibonacci Numbers\bin\Debug\_04._10.Fibonacci_Numbers.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.10. Fibonacci Numbers\obj\Debug\_04._10.Fibonacci_Numbers.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.10. Fibonacci Numbers\obj\Debug\_04._10.Fibonacci_Numbers.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.10. Fibonacci Numbers\obj\Debug\04.10. Fibonacci Numbers.csprojResolveAssemblyReference.cache

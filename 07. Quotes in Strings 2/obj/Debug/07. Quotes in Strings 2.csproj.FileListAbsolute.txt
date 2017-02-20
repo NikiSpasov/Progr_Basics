@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\07. Quotes in Strings 2\bin\Debug\_07.Quotes_in_Strings_2.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\07. Quotes in Strings 2\bin\Debug\_07.Quotes_in_Strings_2.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\07. Quotes in Strings 2\bin\Debug\_07.Quotes_in_Strings_2.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\07. Quotes in Strings 2\obj\Debug\_07.Quotes_in_Strings_2.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\07. Quotes in Strings 2\obj\Debug\_07.Quotes_in_Strings_2.pdb

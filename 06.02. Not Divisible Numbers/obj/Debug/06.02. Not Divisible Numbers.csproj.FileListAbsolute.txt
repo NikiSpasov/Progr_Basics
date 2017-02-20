@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.02. Not Divisible Numbers\bin\Debug\_06._02.Not_Divisible_Numbers.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.02. Not Divisible Numbers\bin\Debug\_06._02.Not_Divisible_Numbers.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.02. Not Divisible Numbers\bin\Debug\_06._02.Not_Divisible_Numbers.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.02. Not Divisible Numbers\obj\Debug\06.02. Not Divisible Numbers.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.02. Not Divisible Numbers\obj\Debug\_06._02.Not_Divisible_Numbers.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.02. Not Divisible Numbers\obj\Debug\_06._02.Not_Divisible_Numbers.pdb

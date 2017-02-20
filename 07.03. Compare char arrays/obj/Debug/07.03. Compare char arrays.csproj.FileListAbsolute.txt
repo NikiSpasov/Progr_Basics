@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.03. Compare char arrays\bin\Debug\_07._03.Compare_char_arrays.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.03. Compare char arrays\bin\Debug\_07._03.Compare_char_arrays.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.03. Compare char arrays\bin\Debug\_07._03.Compare_char_arrays.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.03. Compare char arrays\obj\Debug\07.03. Compare char arrays.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.03. Compare char arrays\obj\Debug\_07._03.Compare_char_arrays.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.03. Compare char arrays\obj\Debug\_07._03.Compare_char_arrays.pdb

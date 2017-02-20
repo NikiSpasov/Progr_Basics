@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.03. Play card\bin\Debug\_05._03.Play_card.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.03. Play card\obj\Debug\05.03. Play card.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.03. Play card\bin\Debug\_05._03.Play_card.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.03. Play card\bin\Debug\_05._03.Play_card.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.03. Play card\obj\Debug\_05._03.Play_card.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\05.03. Play card\obj\Debug\_05._03.Play_card.pdb

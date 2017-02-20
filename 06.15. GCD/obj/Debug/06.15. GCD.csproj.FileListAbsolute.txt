@@ -1,0 +1,5 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.15. GCD\bin\Debug\_06._15.GCD.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.15. GCD\bin\Debug\_06._15.GCD.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.15. GCD\bin\Debug\_06._15.GCD.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.15. GCD\obj\Debug\_06._15.GCD.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.15. GCD\obj\Debug\_06._15.GCD.pdb

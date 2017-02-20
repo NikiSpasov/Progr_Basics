@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.16. Trailing Zero in !N\bin\Debug\_06._16.Trailing_Zero_in__N.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.16. Trailing Zero in !N\bin\Debug\_06._16.Trailing_Zero_in__N.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.16. Trailing Zero in !N\bin\Debug\_06._16.Trailing_Zero_in__N.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.16. Trailing Zero in !N\obj\Debug\06.16. Trailing Zero in !N.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.16. Trailing Zero in !N\obj\Debug\_06._16.Trailing_Zero_in__N.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.16. Trailing Zero in !N\obj\Debug\_06._16.Trailing_Zero_in__N.pdb

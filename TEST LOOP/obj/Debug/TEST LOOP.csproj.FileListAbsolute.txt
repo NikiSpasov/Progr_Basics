@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\TEST LOOP\bin\Debug\TEST LOOP.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\TEST LOOP\bin\Debug\TEST LOOP.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\TEST LOOP\bin\Debug\TEST LOOP.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\TEST LOOP\obj\Debug\TEST LOOP.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\TEST LOOP\obj\Debug\TEST LOOP.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\TEST LOOP\obj\Debug\TEST LOOP.pdb

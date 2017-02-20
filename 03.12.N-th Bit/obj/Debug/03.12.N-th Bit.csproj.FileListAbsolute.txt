@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.12.N-th Bit\bin\Debug\03.12.N-th Bit.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.12.N-th Bit\bin\Debug\03.12.N-th Bit.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.12.N-th Bit\bin\Debug\03.12.N-th Bit.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.12.N-th Bit\obj\Debug\03.12.N-th Bit.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.12.N-th Bit\obj\Debug\03.12.N-th Bit.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.12.N-th Bit\obj\Debug\03.12.N-th Bit.pdb

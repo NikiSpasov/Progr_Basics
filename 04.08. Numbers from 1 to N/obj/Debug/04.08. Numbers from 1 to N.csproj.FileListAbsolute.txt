@@ -1,0 +1,5 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.08. Numbers from 1 to N\bin\Debug\_04._08.Numbers_from_1_to_N.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.08. Numbers from 1 to N\bin\Debug\_04._08.Numbers_from_1_to_N.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.08. Numbers from 1 to N\bin\Debug\_04._08.Numbers_from_1_to_N.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.08. Numbers from 1 to N\obj\Debug\_04._08.Numbers_from_1_to_N.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.08. Numbers from 1 to N\obj\Debug\_04._08.Numbers_from_1_to_N.pdb

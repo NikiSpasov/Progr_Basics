@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Message\bin\Debug\Message.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Message\bin\Debug\Message.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Message\bin\Debug\Message.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Message\obj\Debug\Message.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\Message\obj\Debug\Message.pdb

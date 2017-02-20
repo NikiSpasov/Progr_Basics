@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.13. Merge Sort\bin\Debug\_07._13.Merge_Sort.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.13. Merge Sort\bin\Debug\_07._13.Merge_Sort.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.13. Merge Sort\bin\Debug\_07._13.Merge_Sort.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.13. Merge Sort\obj\Debug\07.13. Merge Sort.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.13. Merge Sort\obj\Debug\_07._13.Merge_Sort.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\07.13. Merge Sort\obj\Debug\_07._13.Merge_Sort.pdb

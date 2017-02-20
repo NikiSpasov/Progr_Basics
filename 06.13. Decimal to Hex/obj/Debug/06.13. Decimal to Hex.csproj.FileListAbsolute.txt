@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.13. Decimal to Hex\bin\Debug\_06._13.Decimal_to_Hex.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.13. Decimal to Hex\bin\Debug\_06._13.Decimal_to_Hex.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.13. Decimal to Hex\bin\Debug\_06._13.Decimal_to_Hex.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.13. Decimal to Hex\obj\Debug\06.13. Decimal to Hex.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.13. Decimal to Hex\obj\Debug\_06._13.Decimal_to_Hex.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.13. Decimal to Hex\obj\Debug\_06._13.Decimal_to_Hex.pdb

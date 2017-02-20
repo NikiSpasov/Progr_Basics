@@ -1,0 +1,6 @@
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.08. Catalan Numbers\bin\Debug\_06._08.Catalan_Numbers.exe.config
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.08. Catalan Numbers\bin\Debug\_06._08.Catalan_Numbers.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.08. Catalan Numbers\bin\Debug\_06._08.Catalan_Numbers.pdb
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.08. Catalan Numbers\obj\Debug\06.08. Catalan Numbers.csprojResolveAssemblyReference.cache
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.08. Catalan Numbers\obj\Debug\_06._08.Catalan_Numbers.exe
+C:\IT\Telerik\solutions\01. TelerikInToProgramming\06.08. Catalan Numbers\obj\Debug\_06._08.Catalan_Numbers.pdb

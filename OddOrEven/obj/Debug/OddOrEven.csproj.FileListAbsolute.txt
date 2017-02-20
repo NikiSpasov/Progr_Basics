@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\OddOrEven\bin\Debug\OddOrEven.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\OddOrEven\bin\Debug\OddOrEven.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\OddOrEven\bin\Debug\OddOrEven.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\OddOrEven\obj\Debug\OddOrEven.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\OddOrEven\obj\Debug\OddOrEven.pdb

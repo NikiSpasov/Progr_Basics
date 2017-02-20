@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.14.BitExchange\bin\Debug\03.14.BitExchange.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.14.BitExchange\bin\Debug\03.14.BitExchange.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.14.BitExchange\bin\Debug\03.14.BitExchange.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.14.BitExchange\obj\Debug\03.14.BitExchange.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.14.BitExchange\obj\Debug\03.14.BitExchange.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.14.BitExchange\obj\Debug\03.14.BitExchange.pdb

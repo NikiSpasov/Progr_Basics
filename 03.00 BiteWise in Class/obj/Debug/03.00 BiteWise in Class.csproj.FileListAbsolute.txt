@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00 BiteWise in Class\bin\Debug\03.00 BiteWise in Class.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00 BiteWise in Class\bin\Debug\03.00 BiteWise in Class.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00 BiteWise in Class\bin\Debug\03.00 BiteWise in Class.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00 BiteWise in Class\obj\Debug\03.00 BiteWise in Class.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00 BiteWise in Class\obj\Debug\03.00 BiteWise in Class.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.00 BiteWise in Class\obj\Debug\03.00 BiteWise in Class.pdb

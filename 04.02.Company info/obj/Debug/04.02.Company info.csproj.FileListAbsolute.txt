@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.02.Company info\bin\Debug\04.02.Company info.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.02.Company info\bin\Debug\04.02.Company info.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.02.Company info\bin\Debug\04.02.Company info.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.02.Company info\obj\Debug\04.02.Company info.csprojResolveAssemblyReference.cache
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.02.Company info\obj\Debug\04.02.Company info.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\04.02.Company info\obj\Debug\04.02.Company info.pdb

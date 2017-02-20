@@ -1,0 +1,6 @@
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.06.Four Digits\bin\Debug\03.06.Four Digits.exe.config
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.06.Four Digits\bin\Debug\03.06.Four Digits.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.06.Four Digits\bin\Debug\03.06.Four Digits.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.06.Four Digits\obj\Debug\03.06.Four Digits.exe
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.06.Four Digits\obj\Debug\03.06.Four Digits.pdb
+P:\pCloud Sync\IT\Telerik\solutions\01. TelerikInToProgramming\03.06.Four Digits\obj\Debug\03.06.Four Digits.csprojResolveAssemblyReference.cache
